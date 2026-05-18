@@ -39,7 +39,7 @@ Identifiers may include any letter, digit, or underscore. This includes any Unic
 @number = "Number: {@text.number}"
 ```
 
-See [value types](https://cherrilang.org/language/types#value-types) and [content item types](https://cherrilang.org/language/types#content-item-types) for available value types.
+See [value types](./types.md#value-types) and [content item types](./types.md#content-item-types) for available value types.
 
 Note that you can get a key and also type coerce the value, for example:
 
@@ -56,7 +56,7 @@ Note that you can get a key and also type coerce the value, for example:
 @ref = @variable
 ```
 
-Check the [value types](https://cherrilang.org/language/types#value-types) reference to learn more about variable value types.
+Check the [value types](./types.md#value-types) reference to learn more about variable value types.
 
 ## Add to Variables
 

@@ -35,7 +35,7 @@ You can find all of the identifiers for each Shortcut glyph at [glyphs.cherrilan
 
 ## Input & Output Types
 
-You define input and output types for your Shortcut with [content item types](https://cherrilang.org/language/types.html#content-item-types).
+You define input and output types for your Shortcut with [content item types](./types.md#content-item-types).
 
 Inputs will default to all types. Outputs will default to no types. This is done to be consistent with the Shortcuts file format.
 

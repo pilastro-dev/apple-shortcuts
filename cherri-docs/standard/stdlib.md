@@ -1,6 +1,6 @@
 ## Standard Library of Functions
 
-You can use the Cherri Standard Library of [functions](https://cherrilang.org/language/functions) using the following syntax:
+You can use the Cherri Standard Library of [functions](../functions.md) using the following syntax:
 
 ```
 #include 'stdlib'
@@ -12,7 +12,7 @@ This will give you access to the following functions. Note that functions are on
 
 ### Choose from vCard
 
-Prompt the user to choose from an array of [vCards](https://cherrilang.org/language/vcards) with a prompt. Returns the chosen vCard item.
+Prompt the user to choose from an array of [vCards](../vcards.md) with a prompt. Returns the chosen vCard item.
 
 ```
 chooseFromVCard(array items, text prompt)
@@ -66,7 +66,7 @@ const jsResult = runJS(code)
 show(jsResult)
 ```
 
-You can also use [`base64File()`](https://cherrilang.org/language/standard/builtin#base64-encode-file) to encode a large JS file into your Shortcut without needing to paste it.
+You can also use [`base64File()`](./builtin.md#base64-encode-file) to encode a large JS file into your Shortcut without needing to paste it.
 
 `index.js`
 

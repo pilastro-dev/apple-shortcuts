@@ -2,7 +2,7 @@
 
 Built-ins in Cherri are actions in the compiler that use standard actions but implement them in a way that makes it easier to use a specific Shortcuts feature.
 
-For example, the [makeVCard()](https://cherrilang.org/language/vcards) action is, in actuality, just a text action, but the compiler uses it to insert the vCard format into a text action based on your input.
+For example, the [makeVCard()](../vcards.md) action is, in actuality, just a text action, but the compiler uses it to insert the vCard format into a text action based on your input.
 
 ## Contains Text
 
@@ -12,7 +12,7 @@ Checks if `text` occurs in `subject`.
 containsText(text subject, text text, bool ?caseSensitive = true)
 ```
 
-This uses a [Match Text](https://cherrilang.org/language/standard/documents#match-text) action to check if `text` is within `subject`.
+This uses a [Match Text](./documents.md) action to check if `text` is within `subject`.
 
 ---
 

@@ -31,7 +31,7 @@ function myAction(text message) {
 }
 ```
 
-Read the [types](https://cherrilang.org/language/types) reference for all types you can use for arguments.
+Read the [types](./types.md) reference for all types you can use for arguments.
 
 When calling your function, keep in mind that the arguments you use will be type-checked against your type definitions for each of your arguments.
 

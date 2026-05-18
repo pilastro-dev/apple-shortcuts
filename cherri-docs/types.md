@@ -146,7 +146,7 @@ The contents of an array value must be valid JSON syntax.
 @array += "another test"
 ```
 
-You can use the [`for`](https://cherrilang.org/language/control-flow#repeat-with-each) statement to iterate over the values contained in the array variable.
+You can use the [`for`](./control-flow.md#repeat-with-each) statement to iterate over the values contained in the array variable.
 
 ```ruby
 @items = ["Item 1","Item 2"]
@@ -168,7 +168,7 @@ So `x` now contains 1 item with a number value of `5`.
 
 Items in an array or added to an array cannot be removed. If you need a new array of items, iterate the array using `for` and add only specific items using a conditional to a new array.
 
-Note that a [`list()`](https://cherrilang.org/language/standard/scripting#list) action result is not an array — it is immutable and does not support `+=`. Use an `array` variable when you need to build a collection dynamically.
+Note that a [`list()`](./standard/scripting.md#list) action result is not an array — it is immutable and does not support `+=`. Use an `array` variable when you need to build a collection dynamically.
 
 ### Variable
 
@@ -176,7 +176,7 @@ A variable is a type of value that can be accepted for a custom action or define
 
 ### Action Result
 
-Actions have output types. View the [actions](https://cherrilang.org/language/actions) documentation to check the output type of an action, or use the `--action=` argument in the CLI.
+Actions have output types. View the [actions](./actions.md) documentation to check the output type of an action, or use the `--action=` argument in the CLI.
 
 ```ruby
 #include 'actions/calendar'
@@ -220,7 +220,7 @@ Some actions have arguments with the type `enum`, accompanied by a set of allowe
 
 Enumerations are types with values defined in code, allowing them to have identifiers and be easily defined in code for both standard and user-defined actions.
 
-To define enumerations for use as a type for [functions](https://cherrilang.org/language/functions) and [action definitions](https://cherrilang.org/language/action-definitions), use the following syntax:
+To define enumerations for use as a type for [functions](./functions.md) and [action definitions](./action-definitions.md), use the following syntax:
 
 ```
 enum Color {

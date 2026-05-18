@@ -1,0 +1,4682 @@
+{
+  "accessibility-actions": [
+    {
+      "file": "standard/a11y.md",
+      "line": 1,
+      "heading": "Accessibility Actions"
+    }
+  ],
+  "action-definition": [
+    {
+      "file": "functions.md",
+      "line": 164,
+      "heading": "Action Definition"
+    }
+  ],
+  "action-result": [
+    {
+      "file": "types.md",
+      "line": 177,
+      "heading": "Action Result"
+    }
+  ],
+  "add-calendar": [
+    {
+      "file": "standard/calendar.md",
+      "line": 71,
+      "heading": "Add Calendar"
+    }
+  ],
+  "add-location-to-list": [
+    {
+      "file": "standard/location.md",
+      "line": 112,
+      "heading": "Add Location to List"
+    }
+  ],
+  "add-new-contact": [
+    {
+      "file": "standard/contacts.md",
+      "line": 9,
+      "heading": "Add New Contact"
+    }
+  ],
+  "add-parameters": [
+    {
+      "file": "action-definitions.md",
+      "line": 42,
+      "heading": "Add Parameters"
+    }
+  ],
+  "add-quick-reminder": [
+    {
+      "file": "standard/calendar.md",
+      "line": 353,
+      "heading": "Add Quick Reminder"
+    }
+  ],
+  "add-to-array": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 94,
+      "heading": "Add to Array"
+    }
+  ],
+  "add-to-books": [
+    {
+      "file": "standard/documents.md",
+      "line": 48,
+      "heading": "Add to Books"
+    }
+  ],
+  "add-to-gif": [
+    {
+      "file": "standard/images.md",
+      "line": 11,
+      "heading": "Add To GIF"
+    }
+  ],
+  "add-to-music": [
+    {
+      "file": "standard/music.md",
+      "line": 9,
+      "heading": "Add to Music"
+    }
+  ],
+  "add-to-playlist": [
+    {
+      "file": "standard/music.md",
+      "line": 196,
+      "heading": "Add to Playlist"
+    }
+  ],
+  "add-to-reading-list": [
+    {
+      "file": "standard/web.md",
+      "line": 136,
+      "heading": "Add to Reading List"
+    }
+  ],
+  "add-to-variables": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 61,
+      "heading": "Add to Variables"
+    }
+  ],
+  "addresses": [
+    {
+      "file": "standard/location.md",
+      "line": 60,
+      "heading": "Addresses"
+    }
+  ],
+  "adjust-date": [
+    {
+      "file": "standard/calendar.md",
+      "line": 161,
+      "heading": "Adjust Date"
+    }
+  ],
+  "adjust-text-tone": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 146,
+      "heading": "Adjust Text Tone"
+    }
+  ],
+  "airdrop": [
+    {
+      "file": "standard/sharing.md",
+      "line": 17,
+      "heading": "AirDrop"
+    },
+    {
+      "file": "standard/sharing.md",
+      "line": 19,
+      "heading": "AirDrop"
+    }
+  ],
+  "alarms": [
+    {
+      "file": "standard/calendar.md",
+      "line": 9,
+      "heading": "Alarms"
+    }
+  ],
+  "alert": [
+    {
+      "file": "standard/basic.md",
+      "line": 101,
+      "heading": "Alert"
+    }
+  ],
+  "all-actions": [
+    {
+      "file": "index.md",
+      "line": 25,
+      "heading": "All actions"
+    }
+  ],
+  "alternating-case": [
+    {
+      "file": "standard/text.md",
+      "line": 181,
+      "heading": "Alternating Case"
+    }
+  ],
+  "app-id-shorthands": [
+    {
+      "file": "standard/scripting.md",
+      "line": 11,
+      "heading": "App ID Shorthands"
+    }
+  ],
+  "appearance": [
+    {
+      "file": "standard/settings.md",
+      "line": 23,
+      "heading": "Appearance"
+    }
+  ],
+  "append-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 68,
+      "heading": "Append File"
+    }
+  ],
+  "append-note": [
+    {
+      "file": "standard/documents.md",
+      "line": 333,
+      "heading": "Append Note"
+    }
+  ],
+  "append-text": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 85,
+      "heading": "Append Text"
+    }
+  ],
+  "apple-intelligence-actions": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 1,
+      "heading": "Apple Intelligence Actions"
+    }
+  ],
+  "apps": [
+    {
+      "file": "standard/scripting.md",
+      "line": 9,
+      "heading": "Apps"
+    }
+  ],
+  "archives": [
+    {
+      "file": "standard/documents.md",
+      "line": 15,
+      "heading": "Archives"
+    }
+  ],
+  "arguments": [
+    {
+      "file": "action-definitions.md",
+      "line": 29,
+      "heading": "Arguments"
+    }
+  ],
+  "array": [
+    {
+      "file": "types.md",
+      "line": 131,
+      "heading": "Array"
+    }
+  ],
+  "articles": [
+    {
+      "file": "standard/web.md",
+      "line": 15,
+      "heading": "Articles"
+    }
+  ],
+  "ask-chat-gpt": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 64,
+      "heading": "Ask Chat GPT"
+    }
+  ],
+  "ask-each-time": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 145,
+      "heading": "Ask Each Time"
+    }
+  ],
+  "ask-for-a-content-item-type": [
+    {
+      "file": "definitions.md",
+      "line": 71,
+      "heading": "Ask for a content item type"
+    }
+  ],
+  "ask-for-input": [
+    {
+      "file": "standard/basic.md",
+      "line": 111,
+      "heading": "Ask for Input"
+    }
+  ],
+  "ask-llm": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 83,
+      "heading": "Ask LLM"
+    }
+  ],
+  "ask-on-device-llm": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 108,
+      "heading": "Ask On-Device LLM"
+    }
+  ],
+  "ask-private-cloud-compute-llm": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 127,
+      "heading": "Ask Private Cloud Compute LLM"
+    }
+  ],
+  "attributes": [
+    {
+      "file": "action-definitions.md",
+      "line": 21,
+      "heading": "Attributes"
+    }
+  ],
+  "audio": [
+    {
+      "file": "standard/media.md",
+      "line": 31,
+      "heading": "Audio"
+    }
+  ],
+  "automatic-nothing-actions-at-the-end": [
+    {
+      "file": "control-flow.md",
+      "line": 139,
+      "heading": "Automatic nothing actions at the end"
+    }
+  ],
+  "base-64-decode": [
+    {
+      "file": "standard/crypto.md",
+      "line": 9,
+      "heading": "Base 64 Decode"
+    }
+  ],
+  "base-64-encode": [
+    {
+      "file": "standard/crypto.md",
+      "line": 19,
+      "heading": "Base 64 Encode"
+    }
+  ],
+  "base64-encode-file": [
+    {
+      "file": "standard/builtin.md",
+      "line": 19,
+      "heading": "Base64 Encode File"
+    }
+  ],
+  "basic-actions": [
+    {
+      "file": "standard/basic.md",
+      "line": 1,
+      "heading": "Basic Actions"
+    }
+  ],
+  "battery": [
+    {
+      "file": "standard/device.md",
+      "line": 118,
+      "heading": "Battery"
+    }
+  ],
+  "best-practices-tips": [
+    {
+      "file": "best-practices.md",
+      "line": 1,
+      "heading": "Best Practices & Tips"
+    }
+  ],
+  "between": [
+    {
+      "file": "control-flow.md",
+      "line": 48,
+      "heading": "Between"
+    }
+  ],
+  "books": [
+    {
+      "file": "standard/documents.md",
+      "line": 46,
+      "heading": "Books"
+    }
+  ],
+  "boolean": [
+    {
+      "file": "types.md",
+      "line": 77,
+      "heading": "Boolean"
+    }
+  ],
+  "build-behavior": [
+    {
+      "file": "package-manager.md",
+      "line": 120,
+      "heading": "Build Behavior"
+    }
+  ],
+  "built-in-actions": [
+    {
+      "file": "standard/builtin.md",
+      "line": 1,
+      "heading": "Built-in Actions"
+    }
+  ],
+  "by-category": [
+    {
+      "file": "index.md",
+      "line": 29,
+      "heading": "By category"
+    }
+  ],
+  "calculate": [
+    {
+      "file": "standard/math.md",
+      "line": 9,
+      "heading": "Calculate"
+    }
+  ],
+  "calendar-actions": [
+    {
+      "file": "standard/calendar.md",
+      "line": 1,
+      "heading": "Calendar Actions"
+    }
+  ],
+  "calendars": [
+    {
+      "file": "standard/calendar.md",
+      "line": 69,
+      "heading": "Calendars"
+    }
+  ],
+  "call": [
+    {
+      "file": "standard/contacts.md",
+      "line": 198,
+      "heading": "Call"
+    }
+  ],
+  "camera": [
+    {
+      "file": "standard/media.md",
+      "line": 82,
+      "heading": "Camera"
+    }
+  ],
+  "can-i-contribute-actions-even-non-standard-actions": [
+    {
+      "file": "actions.md",
+      "line": 15,
+      "heading": "Can I contribute actions, even non-standard actions?"
+    }
+  ],
+  "capitalize": [
+    {
+      "file": "standard/text.md",
+      "line": 191,
+      "heading": "Capitalize"
+    }
+  ],
+  "capitalize-all": [
+    {
+      "file": "standard/text.md",
+      "line": 201,
+      "heading": "Capitalize All"
+    }
+  ],
+  "chaining-example": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 23,
+      "heading": "Chaining Example"
+    }
+  ],
+  "chatbot-example": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 13,
+      "heading": "Chatbot Example"
+    }
+  ],
+  "choose-from-list": [
+    {
+      "file": "menus.md",
+      "line": 20,
+      "heading": "Choose From List"
+    },
+    {
+      "file": "standard/scripting.md",
+      "line": 192,
+      "heading": "Choose from List"
+    }
+  ],
+  "choose-from-menu": [
+    {
+      "file": "menus.md",
+      "line": 5,
+      "heading": "Choose From Menu"
+    }
+  ],
+  "choose-from-vcard": [
+    {
+      "file": "standard/stdlib.md",
+      "line": 13,
+      "heading": "Choose from vCard"
+    }
+  ],
+  "clear-unused-outputs": [
+    {
+      "file": "best-practices.md",
+      "line": 7,
+      "heading": "Clear unused outputs"
+    }
+  ],
+  "clear-up-next": [
+    {
+      "file": "standard/music.md",
+      "line": 96,
+      "heading": "Clear Up Next"
+    }
+  ],
+  "clipboard": [
+    {
+      "file": "standard/sharing.md",
+      "line": 43,
+      "heading": "Clipboard"
+    }
+  ],
+  "clone-failures": [
+    {
+      "file": "package-manager.md",
+      "line": 138,
+      "heading": "Clone failures"
+    }
+  ],
+  "color": [
+    {
+      "file": "definitions.md",
+      "line": 7,
+      "heading": "Color"
+    },
+    {
+      "file": "types.md",
+      "line": 270,
+      "heading": "Color"
+    }
+  ],
+  "combine-images": [
+    {
+      "file": "standard/images.md",
+      "line": 47,
+      "heading": "Combine Images"
+    }
+  ],
+  "commands": [
+    {
+      "file": "package-manager.md",
+      "line": 48,
+      "heading": "Commands"
+    }
+  ],
+  "conditional-operators": [
+    {
+      "file": "control-flow.md",
+      "line": 18,
+      "heading": "Conditional Operators"
+    }
+  ],
+  "confirm": [
+    {
+      "file": "standard/basic.md",
+      "line": 130,
+      "heading": "Confirm"
+    }
+  ],
+  "connect-to-server": [
+    {
+      "file": "standard/network.md",
+      "line": 51,
+      "heading": "Connect to Server"
+    }
+  ],
+  "connected-to-charger": [
+    {
+      "file": "standard/device.md",
+      "line": 120,
+      "heading": "Connected to Charger"
+    }
+  ],
+  "constants": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 106,
+      "heading": "Constants"
+    }
+  ],
+  "contacts-actions": [
+    {
+      "file": "standard/contacts.md",
+      "line": 1,
+      "heading": "Contacts Actions"
+    }
+  ],
+  "contains-text": [
+    {
+      "file": "standard/builtin.md",
+      "line": 7,
+      "heading": "Contains Text"
+    },
+    {
+      "file": "standard/text.md",
+      "line": 211,
+      "heading": "Contains Text"
+    }
+  ],
+  "content-graph": [
+    {
+      "file": "standard/basic.md",
+      "line": 150,
+      "heading": "Content Graph"
+    }
+  ],
+  "content-item-types": [
+    {
+      "file": "types.md",
+      "line": 430,
+      "heading": "Content Item Types"
+    },
+    {
+      "file": "types.md",
+      "line": 449,
+      "heading": "Content Item Types"
+    }
+  ],
+  "control-flow": [
+    {
+      "file": "standard/basic.md",
+      "line": 79,
+      "heading": "Control Flow"
+    }
+  ],
+  "control-flow-output": [
+    {
+      "file": "control-flow.md",
+      "line": 143,
+      "heading": "Control Flow Output"
+    }
+  ],
+  "convert-image": [
+    {
+      "file": "standard/images.md",
+      "line": 60,
+      "heading": "Convert Image"
+    }
+  ],
+  "convert-measurement": [
+    {
+      "file": "standard/scripting.md",
+      "line": 264,
+      "heading": "Convert Measurement"
+    }
+  ],
+  "convert-to-jpeg": [
+    {
+      "file": "standard/images.md",
+      "line": 79,
+      "heading": "Convert to JPEG"
+    }
+  ],
+  "convert-to-usdz": [
+    {
+      "file": "standard/documents.md",
+      "line": 9,
+      "heading": "Convert to USDZ"
+    }
+  ],
+  "correct-spelling": [
+    {
+      "file": "standard/text.md",
+      "line": 221,
+      "heading": "Correct Spelling"
+    }
+  ],
+  "count": [
+    {
+      "file": "standard/basic.md",
+      "line": 13,
+      "heading": "Count"
+    }
+  ],
+  "create-alarm": [
+    {
+      "file": "standard/calendar.md",
+      "line": 11,
+      "heading": "Create Alarm"
+    }
+  ],
+  "create-album": [
+    {
+      "file": "standard/photos.md",
+      "line": 9,
+      "heading": "Create Album"
+    }
+  ],
+  "create-folder": [
+    {
+      "file": "standard/documents.md",
+      "line": 78,
+      "heading": "Create Folder"
+    }
+  ],
+  "create-image-using-image-playground": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 36,
+      "heading": "Create Image using Image Playground"
+    }
+  ],
+  "create-measurement": [
+    {
+      "file": "standard/scripting.md",
+      "line": 297,
+      "heading": "Create Measurement"
+    }
+  ],
+  "create-shortcut-link": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 9,
+      "heading": "Create Shortcut Link"
+    }
+  ],
+  "crop-image": [
+    {
+      "file": "standard/images.md",
+      "line": 89,
+      "heading": "Crop Image"
+    }
+  ],
+  "cryptography-actions": [
+    {
+      "file": "standard/crypto.md",
+      "line": 1,
+      "heading": "Cryptography Actions"
+    }
+  ],
+  "current-date": [
+    {
+      "file": "standard/calendar.md",
+      "line": 192,
+      "heading": "Current Date"
+    }
+  ],
+  "current-location": [
+    {
+      "file": "standard/location.md",
+      "line": 9,
+      "heading": "Current Location"
+    }
+  ],
+  "custom-image-mask": [
+    {
+      "file": "standard/images.md",
+      "line": 106,
+      "heading": "Custom Image Mask"
+    }
+  ],
+  "custom-image-overlay": [
+    {
+      "file": "standard/images.md",
+      "line": 116,
+      "heading": "Custom Image Overlay"
+    }
+  ],
+  "dates": [
+    {
+      "file": "standard/calendar.md",
+      "line": 159,
+      "heading": "Dates"
+    }
+  ],
+  "declare-variable-value-types-without-empty-typed-values": [
+    {
+      "file": "best-practices.md",
+      "line": 65,
+      "heading": "Declare variable value types without empty typed values"
+    }
+  ],
+  "declaring-dependencies": [
+    {
+      "file": "package-manager.md",
+      "line": 146,
+      "heading": "Declaring Dependencies"
+    }
+  ],
+  "default-or-optional-values": [
+    {
+      "file": "best-practices.md",
+      "line": 55,
+      "heading": "Default or optional values"
+    }
+  ],
+  "default-value": [
+    {
+      "file": "functions.md",
+      "line": 60,
+      "heading": "Default Value"
+    }
+  ],
+  "define": [
+    {
+      "file": "standard/text.md",
+      "line": 9,
+      "heading": "Define"
+    }
+  ],
+  "defining-a-function": [
+    {
+      "file": "functions.md",
+      "line": 9,
+      "heading": "Defining a Function"
+    }
+  ],
+  "defining-an-action": [
+    {
+      "file": "raw-actions.md",
+      "line": 3,
+      "heading": "Defining an action"
+    }
+  ],
+  "defining-arguments": [
+    {
+      "file": "functions.md",
+      "line": 24,
+      "heading": "Defining Arguments"
+    }
+  ],
+  "definition": [
+    {
+      "file": "action-definitions.md",
+      "line": 1,
+      "heading": "Definition"
+    },
+    {
+      "file": "functions.md",
+      "line": 7,
+      "heading": "Definition"
+    }
+  ],
+  "delete-alarm": [
+    {
+      "file": "standard/calendar.md",
+      "line": 21,
+      "heading": "Delete Alarm"
+    }
+  ],
+  "delete-files": [
+    {
+      "file": "standard/documents.md",
+      "line": 88,
+      "heading": "Delete Files"
+    }
+  ],
+  "delete-photos": [
+    {
+      "file": "standard/photos.md",
+      "line": 17,
+      "heading": "Delete Photos"
+    }
+  ],
+  "dependencies": [
+    {
+      "file": "package-manager.md",
+      "line": 104,
+      "heading": "Dependencies"
+    }
+  ],
+  "describe-this": [
+    {
+      "file": "standard/a11y.md",
+      "line": 218,
+      "heading": "Describe This"
+    }
+  ],
+  "detect-language": [
+    {
+      "file": "standard/translation.md",
+      "line": 35,
+      "heading": "Detect Language"
+    }
+  ],
+  "device": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 70,
+      "heading": "Device"
+    },
+    {
+      "file": "standard/settings.md",
+      "line": 47,
+      "heading": "Device"
+    }
+  ],
+  "device-actions": [
+    {
+      "file": "standard/device.md",
+      "line": 1,
+      "heading": "Device Actions"
+    }
+  ],
+  "dictation": [
+    {
+      "file": "standard/text.md",
+      "line": 19,
+      "heading": "Dictation"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "standard/scripting.md",
+      "line": 120,
+      "heading": "Dictionaries"
+    }
+  ],
+  "dictionary": [
+    {
+      "file": "types.md",
+      "line": 95,
+      "heading": "Dictionary"
+    },
+    {
+      "file": "types.md",
+      "line": 421,
+      "heading": "Dictionary"
+    }
+  ],
+  "difference-from-functions-and-includes": [
+    {
+      "file": "copy-paste.md",
+      "line": 37,
+      "heading": "Difference from functions and includes"
+    }
+  ],
+  "dismiss-siri": [
+    {
+      "file": "standard/scripting.md",
+      "line": 370,
+      "heading": "Dismiss Siri"
+    }
+  ],
+  "display": [
+    {
+      "file": "standard/settings.md",
+      "line": 63,
+      "heading": "Display"
+    }
+  ],
+  "display-sleep": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 72,
+      "heading": "Display Sleep"
+    }
+  ],
+  "documents-actions": [
+    {
+      "file": "standard/documents.md",
+      "line": 1,
+      "heading": "Documents Actions"
+    }
+  ],
+  "download-url": [
+    {
+      "file": "standard/web.md",
+      "line": 57,
+      "heading": "Download URL"
+    }
+  ],
+  "edit-event": [
+    {
+      "file": "standard/calendar.md",
+      "line": 81,
+      "heading": "Edit Event"
+    }
+  ],
+  "editing": [
+    {
+      "file": "standard/documents.md",
+      "line": 56,
+      "heading": "Editing"
+    }
+  ],
+  "efficiency": [
+    {
+      "file": "best-practices.md",
+      "line": 3,
+      "heading": "Efficiency"
+    }
+  ],
+  "email": [
+    {
+      "file": "standard/contacts.md",
+      "line": 166,
+      "heading": "Email"
+    }
+  ],
+  "email-address": [
+    {
+      "file": "standard/contacts.md",
+      "line": 168,
+      "heading": "Email Address"
+    }
+  ],
+  "email-sms-messaging": [
+    {
+      "file": "standard/sharing.md",
+      "line": 63,
+      "heading": "Email & SMS Messaging"
+    }
+  ],
+  "empty": [
+    {
+      "file": "types.md",
+      "line": 284,
+      "heading": "Empty"
+    }
+  ],
+  "empty-variables": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 166,
+      "heading": "Empty Variables"
+    }
+  ],
+  "encode-audio": [
+    {
+      "file": "standard/media.md",
+      "line": 33,
+      "heading": "Encode Audio"
+    }
+  ],
+  "encode-video": [
+    {
+      "file": "standard/media.md",
+      "line": 216,
+      "heading": "Encode Video"
+    }
+  ],
+  "enumerations": [
+    {
+      "file": "types.md",
+      "line": 217,
+      "heading": "Enumerations"
+    }
+  ],
+  "example": [
+    {
+      "file": "action-definitions.md",
+      "line": 52,
+      "heading": "Example"
+    },
+    {
+      "file": "import-questions.md",
+      "line": 11,
+      "heading": "Example"
+    },
+    {
+      "file": "vcards.md",
+      "line": 9,
+      "heading": "Example"
+    }
+  ],
+  "expand-url": [
+    {
+      "file": "standard/web.md",
+      "line": 225,
+      "heading": "Expand URL"
+    }
+  ],
+  "explicit-comments": [
+    {
+      "file": "comments.md",
+      "line": 46,
+      "heading": "Explicit comments"
+    }
+  ],
+  "expression": [
+    {
+      "file": "types.md",
+      "line": 55,
+      "heading": "Expression"
+    }
+  ],
+  "extract-archive": [
+    {
+      "file": "standard/documents.md",
+      "line": 17,
+      "heading": "Extract Archive"
+    }
+  ],
+  "extract-image-text": [
+    {
+      "file": "standard/images.md",
+      "line": 135,
+      "heading": "Extract Image Text"
+    }
+  ],
+  "facetime-call": [
+    {
+      "file": "standard/contacts.md",
+      "line": 208,
+      "heading": "FaceTime Call"
+    }
+  ],
+  "fast-compilation": [
+    {
+      "file": "best-practices.md",
+      "line": 61,
+      "heading": "Fast compilation"
+    }
+  ],
+  "file-request": [
+    {
+      "file": "standard/web.md",
+      "line": 67,
+      "heading": "File Request"
+    }
+  ],
+  "file-size": [
+    {
+      "file": "standard/documents.md",
+      "line": 98,
+      "heading": "File Size"
+    }
+  ],
+  "files-folders": [
+    {
+      "file": "standard/documents.md",
+      "line": 66,
+      "heading": "Files & Folders"
+    }
+  ],
+  "filter-contacts": [
+    {
+      "file": "standard/contacts.md",
+      "line": 19,
+      "heading": "Filter Contacts"
+    }
+  ],
+  "filter-files": [
+    {
+      "file": "standard/documents.md",
+      "line": 121,
+      "heading": "Filter Files"
+    }
+  ],
+  "find-conversation": [
+    {
+      "file": "standard/sharing.md",
+      "line": 65,
+      "heading": "Find Conversation"
+    }
+  ],
+  "find-email": [
+    {
+      "file": "standard/sharing.md",
+      "line": 75,
+      "heading": "Find Email"
+    }
+  ],
+  "find-message": [
+    {
+      "file": "standard/sharing.md",
+      "line": 85,
+      "heading": "Find Message"
+    }
+  ],
+  "flip-image": [
+    {
+      "file": "standard/images.md",
+      "line": 143,
+      "heading": "Flip Image"
+    }
+  ],
+  "float": [
+    {
+      "file": "types.md",
+      "line": 49,
+      "heading": "Float"
+    }
+  ],
+  "form-request": [
+    {
+      "file": "standard/web.md",
+      "line": 84,
+      "heading": "Form Request"
+    }
+  ],
+  "format-date": [
+    {
+      "file": "standard/calendar.md",
+      "line": 285,
+      "heading": "Format Date"
+    }
+  ],
+  "format-number": [
+    {
+      "file": "standard/scripting.md",
+      "line": 330,
+      "heading": "Format Number"
+    }
+  ],
+  "format-time": [
+    {
+      "file": "standard/calendar.md",
+      "line": 306,
+      "heading": "Format Time"
+    }
+  ],
+  "format-timestamp": [
+    {
+      "file": "standard/calendar.md",
+      "line": 324,
+      "heading": "Format Timestamp"
+    }
+  ],
+  "formatting": [
+    {
+      "file": "standard/calendar.md",
+      "line": 283,
+      "heading": "Formatting"
+    }
+  ],
+  "from-workflows": [
+    {
+      "file": "definitions.md",
+      "line": 79,
+      "heading": "From (Workflows)"
+    }
+  ],
+  "function-behavior": [
+    {
+      "file": "functions.md",
+      "line": 70,
+      "heading": "Function Behavior"
+    }
+  ],
+  "function-calls": [
+    {
+      "file": "functions.md",
+      "line": 201,
+      "heading": "Function Calls"
+    }
+  ],
+  "get-addresses": [
+    {
+      "file": "standard/location.md",
+      "line": 62,
+      "heading": "Get Addresses"
+    }
+  ],
+  "get-alarms": [
+    {
+      "file": "standard/calendar.md",
+      "line": 31,
+      "heading": "Get Alarms"
+    }
+  ],
+  "get-apps": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 9,
+      "heading": "Get Apps"
+    }
+  ],
+  "get-article": [
+    {
+      "file": "standard/web.md",
+      "line": 17,
+      "heading": "Get Article"
+    }
+  ],
+  "get-article-detail": [
+    {
+      "file": "standard/web.md",
+      "line": 27,
+      "heading": "Get Article Detail"
+    }
+  ],
+  "get-battery-level": [
+    {
+      "file": "standard/device.md",
+      "line": 130,
+      "heading": "Get Battery Level"
+    }
+  ],
+  "get-cellular-detail": [
+    {
+      "file": "standard/network.md",
+      "line": 76,
+      "heading": "Get Cellular Detail"
+    }
+  ],
+  "get-clipboard": [
+    {
+      "file": "standard/sharing.md",
+      "line": 45,
+      "heading": "Get Clipboard"
+    }
+  ],
+  "get-clipboard-contents": [
+    {
+      "file": "definitions.md",
+      "line": 63,
+      "heading": "Get Clipboard Contents"
+    }
+  ],
+  "get-contacts": [
+    {
+      "file": "standard/contacts.md",
+      "line": 54,
+      "heading": "Get Contacts"
+    }
+  ],
+  "get-current-location": [
+    {
+      "file": "standard/location.md",
+      "line": 19,
+      "heading": "Get Current Location"
+    }
+  ],
+  "get-current-song": [
+    {
+      "file": "standard/music.md",
+      "line": 19,
+      "heading": "Get Current Song"
+    }
+  ],
+  "get-current-url": [
+    {
+      "file": "standard/web.md",
+      "line": 146,
+      "heading": "Get Current URL"
+    }
+  ],
+  "get-current-weather": [
+    {
+      "file": "standard/location.md",
+      "line": 122,
+      "heading": "Get Current Weather"
+    }
+  ],
+  "get-dates": [
+    {
+      "file": "standard/calendar.md",
+      "line": 210,
+      "heading": "Get Dates"
+    }
+  ],
+  "get-detail-of-contact": [
+    {
+      "file": "standard/contacts.md",
+      "line": 64,
+      "heading": "Get Detail of Contact"
+    }
+  ],
+  "get-device-detail": [
+    {
+      "file": "standard/device.md",
+      "line": 9,
+      "heading": "Get Device Detail"
+    }
+  ],
+  "get-dictionary": [
+    {
+      "file": "standard/scripting.md",
+      "line": 122,
+      "heading": "Get Dictionary"
+    }
+  ],
+  "get-emails": [
+    {
+      "file": "standard/contacts.md",
+      "line": 178,
+      "heading": "Get Emails"
+    }
+  ],
+  "get-event-detail": [
+    {
+      "file": "standard/calendar.md",
+      "line": 105,
+      "heading": "Get Event Detail"
+    }
+  ],
+  "get-external-ip": [
+    {
+      "file": "standard/network.md",
+      "line": 11,
+      "heading": "Get External IP"
+    }
+  ],
+  "get-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 150,
+      "heading": "Get File"
+    }
+  ],
+  "get-file-detail": [
+    {
+      "file": "standard/documents.md",
+      "line": 160,
+      "heading": "Get File Detail"
+    }
+  ],
+  "get-file-from-folder": [
+    {
+      "file": "standard/documents.md",
+      "line": 179,
+      "heading": "Get File From Folder"
+    }
+  ],
+  "get-file-link": [
+    {
+      "file": "standard/documents.md",
+      "line": 189,
+      "heading": "Get File Link"
+    }
+  ],
+  "get-first-item": [
+    {
+      "file": "standard/scripting.md",
+      "line": 202,
+      "heading": "Get First Item"
+    }
+  ],
+  "get-focus-mode": [
+    {
+      "file": "standard/settings.md",
+      "line": 97,
+      "heading": "Get Focus Mode"
+    }
+  ],
+  "get-folder-contacts": [
+    {
+      "file": "standard/documents.md",
+      "line": 199,
+      "heading": "Get Folder Contacts"
+    }
+  ],
+  "get-folder-contents": [
+    {
+      "file": "standard/documents.md",
+      "line": 321,
+      "heading": "Get Folder Contents"
+    }
+  ],
+  "get-gifs-from-giphy": [
+    {
+      "file": "standard/web.md",
+      "line": 37,
+      "heading": "Get GIFs from Giphy"
+    }
+  ],
+  "get-halfway-point": [
+    {
+      "file": "standard/location.md",
+      "line": 82,
+      "heading": "Get Halfway Point"
+    }
+  ],
+  "get-holiday-date": [
+    {
+      "file": "standard/calendar.md",
+      "line": 220,
+      "heading": "Get Holiday Date"
+    }
+  ],
+  "get-hotspot-password": [
+    {
+      "file": "standard/network.md",
+      "line": 116,
+      "heading": "Get Hotspot Password"
+    }
+  ],
+  "get-image-detail": [
+    {
+      "file": "standard/images.md",
+      "line": 156,
+      "heading": "Get Image Detail"
+    }
+  ],
+  "get-image-frames": [
+    {
+      "file": "standard/images.md",
+      "line": 21,
+      "heading": "Get Image Frames"
+    }
+  ],
+  "get-images": [
+    {
+      "file": "standard/images.md",
+      "line": 191,
+      "heading": "Get Images"
+    }
+  ],
+  "get-key": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 26,
+      "heading": "Get Key"
+    }
+  ],
+  "get-keys-from-dictionary": [
+    {
+      "file": "standard/scripting.md",
+      "line": 132,
+      "heading": "Get Keys from Dictionary"
+    }
+  ],
+  "get-last-import": [
+    {
+      "file": "standard/photos.md",
+      "line": 25,
+      "heading": "Get Last Import"
+    }
+  ],
+  "get-last-item": [
+    {
+      "file": "standard/scripting.md",
+      "line": 212,
+      "heading": "Get Last Item"
+    }
+  ],
+  "get-latest-bursts": [
+    {
+      "file": "standard/photos.md",
+      "line": 33,
+      "heading": "Get Latest Bursts"
+    }
+  ],
+  "get-latest-live-photos": [
+    {
+      "file": "standard/photos.md",
+      "line": 41,
+      "heading": "Get Latest Live Photos"
+    }
+  ],
+  "get-latest-photos": [
+    {
+      "file": "standard/photos.md",
+      "line": 49,
+      "heading": "Get Latest Photos"
+    }
+  ],
+  "get-latest-screenshots": [
+    {
+      "file": "standard/photos.md",
+      "line": 57,
+      "heading": "Get Latest Screenshots"
+    }
+  ],
+  "get-latest-videos": [
+    {
+      "file": "standard/photos.md",
+      "line": 65,
+      "heading": "Get Latest Videos"
+    }
+  ],
+  "get-list-item": [
+    {
+      "file": "standard/scripting.md",
+      "line": 222,
+      "heading": "Get List Item"
+    }
+  ],
+  "get-list-items": [
+    {
+      "file": "standard/scripting.md",
+      "line": 232,
+      "heading": "Get List Items"
+    }
+  ],
+  "get-local-ip": [
+    {
+      "file": "standard/network.md",
+      "line": 26,
+      "heading": "Get Local IP"
+    }
+  ],
+  "get-location-detail": [
+    {
+      "file": "standard/location.md",
+      "line": 27,
+      "heading": "Get Location Detail"
+    }
+  ],
+  "get-maps-link": [
+    {
+      "file": "standard/location.md",
+      "line": 92,
+      "heading": "Get Maps Link"
+    }
+  ],
+  "get-match-group": [
+    {
+      "file": "standard/text.md",
+      "line": 115,
+      "heading": "Get Match Group"
+    }
+  ],
+  "get-match-groups": [
+    {
+      "file": "standard/text.md",
+      "line": 125,
+      "heading": "Get Match Groups"
+    }
+  ],
+  "get-music-detail": [
+    {
+      "file": "standard/music.md",
+      "line": 29,
+      "heading": "Get Music Detail"
+    }
+  ],
+  "get-name": [
+    {
+      "file": "standard/scripting.md",
+      "line": 172,
+      "heading": "Get Name"
+    }
+  ],
+  "get-name-of-emoji": [
+    {
+      "file": "standard/text.md",
+      "line": 57,
+      "heading": "Get Name of Emoji"
+    }
+  ],
+  "get-numbers": [
+    {
+      "file": "standard/scripting.md",
+      "line": 340,
+      "heading": "Get Numbers"
+    }
+  ],
+  "get-object-of-class": [
+    {
+      "file": "standard/basic.md",
+      "line": 31,
+      "heading": "Get Object of Class"
+    }
+  ],
+  "get-on-screen-content": [
+    {
+      "file": "standard/device.md",
+      "line": 32,
+      "heading": "Get On-Screen Content"
+    }
+  ],
+  "get-orientation": [
+    {
+      "file": "standard/device.md",
+      "line": 42,
+      "heading": "Get Orientation"
+    }
+  ],
+  "get-parent-directory": [
+    {
+      "file": "standard/documents.md",
+      "line": 209,
+      "heading": "Get Parent Directory"
+    }
+  ],
+  "get-pdf-text": [
+    {
+      "file": "standard/pdf.md",
+      "line": 9,
+      "heading": "Get PDF Text"
+    }
+  ],
+  "get-phone-numbers": [
+    {
+      "file": "standard/contacts.md",
+      "line": 223,
+      "heading": "Get Phone Numbers"
+    }
+  ],
+  "get-playlist": [
+    {
+      "file": "standard/music.md",
+      "line": 204,
+      "heading": "Get Playlist"
+    }
+  ],
+  "get-podcast-detail": [
+    {
+      "file": "standard/media.md",
+      "line": 136,
+      "heading": "Get Podcast Detail"
+    }
+  ],
+  "get-podcasts": [
+    {
+      "file": "standard/media.md",
+      "line": 156,
+      "heading": "Get Podcasts"
+    }
+  ],
+  "get-random-item": [
+    {
+      "file": "standard/scripting.md",
+      "line": 242,
+      "heading": "Get Random Item"
+    }
+  ],
+  "get-rich-text-from-markdown": [
+    {
+      "file": "standard/text.md",
+      "line": 145,
+      "heading": "Get Rich Text from Markdown"
+    }
+  ],
+  "get-rss": [
+    {
+      "file": "standard/web.md",
+      "line": 116,
+      "heading": "Get RSS"
+    }
+  ],
+  "get-rss-feeds": [
+    {
+      "file": "standard/web.md",
+      "line": 126,
+      "heading": "Get RSS Feeds"
+    }
+  ],
+  "get-selected": [
+    {
+      "file": "standard/documents.md",
+      "line": 219,
+      "heading": "Get Selected"
+    }
+  ],
+  "get-shazam-detail": [
+    {
+      "file": "standard/media.md",
+      "line": 182,
+      "heading": "Get Shazam Detail"
+    }
+  ],
+  "get-shortcut-detail": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 17,
+      "heading": "Get Shortcut Detail"
+    }
+  ],
+  "get-shortcuts": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 38,
+      "heading": "Get Shortcuts"
+    }
+  ],
+  "get-text": [
+    {
+      "file": "standard/text.md",
+      "line": 67,
+      "heading": "Get Text"
+    }
+  ],
+  "get-text-from-image": [
+    {
+      "file": "standard/text.md",
+      "line": 77,
+      "heading": "Get Text from Image"
+    }
+  ],
+  "get-type": [
+    {
+      "file": "standard/basic.md",
+      "line": 41,
+      "heading": "Get Type"
+    }
+  ],
+  "get-url-detail": [
+    {
+      "file": "standard/web.md",
+      "line": 235,
+      "heading": "Get URL Detail"
+    }
+  ],
+  "get-url-headers": [
+    {
+      "file": "standard/web.md",
+      "line": 256,
+      "heading": "Get URL Headers"
+    }
+  ],
+  "get-urls": [
+    {
+      "file": "standard/web.md",
+      "line": 266,
+      "heading": "Get URLs"
+    }
+  ],
+  "get-value-from-dictionary": [
+    {
+      "file": "standard/scripting.md",
+      "line": 142,
+      "heading": "Get Value from Dictionary"
+    }
+  ],
+  "get-values-from-dictionary": [
+    {
+      "file": "standard/scripting.md",
+      "line": 152,
+      "heading": "Get Values from Dictionary"
+    }
+  ],
+  "get-wallpaper": [
+    {
+      "file": "standard/settings.md",
+      "line": 174,
+      "heading": "Get Wallpaper"
+    }
+  ],
+  "get-wallpapers": [
+    {
+      "file": "standard/settings.md",
+      "line": 186,
+      "heading": "Get Wallpapers"
+    }
+  ],
+  "get-weather-detail": [
+    {
+      "file": "standard/location.md",
+      "line": 132,
+      "heading": "Get Weather Detail"
+    }
+  ],
+  "get-weather-forecast": [
+    {
+      "file": "standard/location.md",
+      "line": 167,
+      "heading": "Get Weather Forecast"
+    }
+  ],
+  "get-webpage-contents": [
+    {
+      "file": "standard/web.md",
+      "line": 156,
+      "heading": "Get Webpage Contents"
+    }
+  ],
+  "get-webpage-detail": [
+    {
+      "file": "standard/web.md",
+      "line": 166,
+      "heading": "Get Webpage Detail"
+    }
+  ],
+  "get-website-app-activity": [
+    {
+      "file": "standard/device.md",
+      "line": 150,
+      "heading": "Get Website & App Activity"
+    }
+  ],
+  "get-wifi-detail": [
+    {
+      "file": "standard/network.md",
+      "line": 94,
+      "heading": "Get WiFi Detail"
+    }
+  ],
+  "get-windows": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 136,
+      "heading": "Get Windows"
+    }
+  ],
+  "gifs": [
+    {
+      "file": "standard/images.md",
+      "line": 9,
+      "heading": "GIFs"
+    }
+  ],
+  "giphy": [
+    {
+      "file": "standard/web.md",
+      "line": 35,
+      "heading": "Giphy"
+    }
+  ],
+  "globals": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 128,
+      "heading": "Globals"
+    }
+  ],
+  "glyph": [
+    {
+      "file": "definitions.md",
+      "line": 28,
+      "heading": "Glyph"
+    }
+  ],
+  "has-value-does-not": [
+    {
+      "file": "control-flow.md",
+      "line": 32,
+      "heading": "Has Value/Does Not"
+    }
+  ],
+  "hash": [
+    {
+      "file": "standard/crypto.md",
+      "line": 29,
+      "heading": "Hash"
+    }
+  ],
+  "hearing": [
+    {
+      "file": "standard/a11y.md",
+      "line": 106,
+      "heading": "Hearing"
+    }
+  ],
+  "hide-app": [
+    {
+      "file": "standard/scripting.md",
+      "line": 33,
+      "heading": "Hide App"
+    }
+  ],
+  "hide-apps": [
+    {
+      "file": "standard/scripting.md",
+      "line": 43,
+      "heading": "Hide Apps"
+    }
+  ],
+  "hotspot": [
+    {
+      "file": "standard/network.md",
+      "line": 114,
+      "heading": "HotSpot"
+    }
+  ],
+  "how-do-they-work": [
+    {
+      "file": "functions.md",
+      "line": 158,
+      "heading": "How Do They Work?"
+    },
+    {
+      "file": "includes.md",
+      "line": 14,
+      "heading": "How do they work?"
+    }
+  ],
+  "http": [
+    {
+      "file": "standard/web.md",
+      "line": 55,
+      "heading": "HTTP"
+    }
+  ],
+  "icon": [
+    {
+      "file": "definitions.md",
+      "line": 3,
+      "heading": "Icon"
+    }
+  ],
+  "if-otherwise": [
+    {
+      "file": "control-flow.md",
+      "line": 1,
+      "heading": "If/Otherwise"
+    }
+  ],
+  "image-editing": [
+    {
+      "file": "standard/images.md",
+      "line": 45,
+      "heading": "Image Editing"
+    }
+  ],
+  "image-playground": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 34,
+      "heading": "Image Playground"
+    }
+  ],
+  "images-actions": [
+    {
+      "file": "standard/images.md",
+      "line": 1,
+      "heading": "Images Actions"
+    }
+  ],
+  "import-actions-from-your-device": [
+    {
+      "file": "import-actions.md",
+      "line": 1,
+      "heading": "Import Actions from your Device"
+    }
+  ],
+  "importing-actions": [
+    {
+      "file": "import-actions.md",
+      "line": 7,
+      "heading": "Importing Actions"
+    }
+  ],
+  "including-comments": [
+    {
+      "file": "comments.md",
+      "line": 40,
+      "heading": "Including comments"
+    }
+  ],
+  "including-files-in-a-parent-directory": [
+    {
+      "file": "includes.md",
+      "line": 18,
+      "heading": "Including files in a parent directory"
+    }
+  ],
+  "initialize-a-package": [
+    {
+      "file": "package-manager.md",
+      "line": 50,
+      "heading": "Initialize a Package"
+    }
+  ],
+  "inline-variables": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 19,
+      "heading": "Inline Variables"
+    }
+  ],
+  "input-output-types": [
+    {
+      "file": "definitions.md",
+      "line": 36,
+      "heading": "Input & Output Types"
+    }
+  ],
+  "install-a-package": [
+    {
+      "file": "package-manager.md",
+      "line": 58,
+      "heading": "Install a Package"
+    }
+  ],
+  "ip-address": [
+    {
+      "file": "standard/network.md",
+      "line": 9,
+      "heading": "IP Address"
+    }
+  ],
+  "is-charging": [
+    {
+      "file": "standard/device.md",
+      "line": 140,
+      "heading": "Is Charging"
+    }
+  ],
+  "is-online": [
+    {
+      "file": "standard/network.md",
+      "line": 41,
+      "heading": "Is Online"
+    }
+  ],
+  "isolated-scope": [
+    {
+      "file": "functions.md",
+      "line": 100,
+      "heading": "Isolated Scope"
+    }
+  ],
+  "items": [
+    {
+      "file": "standard/scripting.md",
+      "line": 170,
+      "heading": "Items"
+    }
+  ],
+  "join-text": [
+    {
+      "file": "standard/text.md",
+      "line": 231,
+      "heading": "Join Text"
+    }
+  ],
+  "json-request": [
+    {
+      "file": "standard/web.md",
+      "line": 101,
+      "heading": "JSON Request"
+    }
+  ],
+  "kill-all-apps": [
+    {
+      "file": "standard/scripting.md",
+      "line": 53,
+      "heading": "Kill All Apps"
+    }
+  ],
+  "kill-app": [
+    {
+      "file": "standard/scripting.md",
+      "line": 65,
+      "heading": "Kill App"
+    }
+  ],
+  "label-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 227,
+      "heading": "Label File"
+    }
+  ],
+  "language-models": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 62,
+      "heading": "Language Models"
+    }
+  ],
+  "languages": [
+    {
+      "file": "standard/translation.md",
+      "line": 9,
+      "heading": "Languages"
+    }
+  ],
+  "list": [
+    {
+      "file": "standard/scripting.md",
+      "line": 252,
+      "heading": "List"
+    }
+  ],
+  "list-packages": [
+    {
+      "file": "package-manager.md",
+      "line": 66,
+      "heading": "List Packages"
+    }
+  ],
+  "lists": [
+    {
+      "file": "standard/scripting.md",
+      "line": 190,
+      "heading": "Lists"
+    }
+  ],
+  "literal": [
+    {
+      "file": "functions.md",
+      "line": 50,
+      "heading": "Literal"
+    }
+  ],
+  "localization": [
+    {
+      "file": "import-actions.md",
+      "line": 38,
+      "heading": "Localization"
+    }
+  ],
+  "location": [
+    {
+      "file": "standard/location.md",
+      "line": 52,
+      "heading": "Location"
+    }
+  ],
+  "location-actions": [
+    {
+      "file": "standard/location.md",
+      "line": 1,
+      "heading": "Location Actions"
+    }
+  ],
+  "lock-screen": [
+    {
+      "file": "standard/device.md",
+      "line": 52,
+      "heading": "Lock Screen"
+    }
+  ],
+  "loops": [
+    {
+      "file": "control-flow.md",
+      "line": 80,
+      "heading": "Loops"
+    }
+  ],
+  "lowercase": [
+    {
+      "file": "standard/text.md",
+      "line": 241,
+      "heading": "Lowercase"
+    }
+  ],
+  "macos-only-actions": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 1,
+      "heading": "macOS Only Actions"
+    }
+  ],
+  "macos-only-or-non-macos": [
+    {
+      "file": "definitions.md",
+      "line": 123,
+      "heading": "macOS only or non-macOS"
+    }
+  ],
+  "magnifier": [
+    {
+      "file": "standard/a11y.md",
+      "line": 216,
+      "heading": "Magnifier"
+    }
+  ],
+  "make-archive": [
+    {
+      "file": "standard/documents.md",
+      "line": 27,
+      "heading": "Make Archive"
+    }
+  ],
+  "make-disk-image": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 21,
+      "heading": "Make Disk Image"
+    }
+  ],
+  "make-gif": [
+    {
+      "file": "standard/images.md",
+      "line": 31,
+      "heading": "Make GIF"
+    }
+  ],
+  "make-html": [
+    {
+      "file": "standard/text.md",
+      "line": 153,
+      "heading": "Make HTML"
+    }
+  ],
+  "make-image-from-pdf-page": [
+    {
+      "file": "standard/pdf.md",
+      "line": 19,
+      "heading": "Make Image from PDF Page"
+    }
+  ],
+  "make-image-from-rich-text": [
+    {
+      "file": "standard/images.md",
+      "line": 201,
+      "heading": "Make Image from Rich Text"
+    }
+  ],
+  "make-list-from-text": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 162,
+      "heading": "Make List From Text"
+    }
+  ],
+  "make-markdown": [
+    {
+      "file": "standard/text.md",
+      "line": 163,
+      "heading": "Make Markdown"
+    }
+  ],
+  "make-pdf": [
+    {
+      "file": "standard/pdf.md",
+      "line": 34,
+      "heading": "Make PDF"
+    }
+  ],
+  "make-qr-code": [
+    {
+      "file": "standard/documents.md",
+      "line": 373,
+      "heading": "Make QR Code"
+    }
+  ],
+  "make-rich-text-from-html": [
+    {
+      "file": "standard/text.md",
+      "line": 173,
+      "heading": "Make Rich Text from HTML"
+    }
+  ],
+  "make-shortcut": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 48,
+      "heading": "Make Shortcut"
+    }
+  ],
+  "make-sized-disk-image": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 33,
+      "heading": "Make Sized Disk Image"
+    }
+  ],
+  "make-spoken-audio": [
+    {
+      "file": "standard/text.md",
+      "line": 85,
+      "heading": "Make Spoken Audio"
+    }
+  ],
+  "make-table-from-text": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 172,
+      "heading": "Make Table From Text"
+    }
+  ],
+  "make-vcard": [
+    {
+      "file": "standard/builtin.md",
+      "line": 39,
+      "heading": "Make vCard"
+    }
+  ],
+  "make-video-from-gif": [
+    {
+      "file": "standard/images.md",
+      "line": 39,
+      "heading": "Make Video From GIF"
+    }
+  ],
+  "maps": [
+    {
+      "file": "standard/location.md",
+      "line": 80,
+      "heading": "Maps"
+    }
+  ],
+  "markup": [
+    {
+      "file": "standard/documents.md",
+      "line": 58,
+      "heading": "Markup"
+    }
+  ],
+  "mask-image": [
+    {
+      "file": "standard/images.md",
+      "line": 209,
+      "heading": "Mask Image"
+    }
+  ],
+  "match-text": [
+    {
+      "file": "standard/text.md",
+      "line": 135,
+      "heading": "Match Text"
+    }
+  ],
+  "math-actions": [
+    {
+      "file": "standard/math.md",
+      "line": 1,
+      "heading": "Math Actions"
+    }
+  ],
+  "measurement": [
+    {
+      "file": "standard/scripting.md",
+      "line": 262,
+      "heading": "Measurement"
+    }
+  ],
+  "media-actions": [
+    {
+      "file": "standard/media.md",
+      "line": 1,
+      "heading": "Media Actions"
+    }
+  ],
+  "metadata": [
+    {
+      "file": "standard/media.md",
+      "line": 118,
+      "heading": "Metadata"
+    }
+  ],
+  "move-window": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 163,
+      "heading": "Move Window"
+    }
+  ],
+  "multi-line-comment": [
+    {
+      "file": "comments.md",
+      "line": 13,
+      "heading": "Multi-line comment:"
+    }
+  ],
+  "multiple-conditions": [
+    {
+      "file": "control-flow.md",
+      "line": 59,
+      "heading": "Multiple Conditions"
+    }
+  ],
+  "multitasking": [
+    {
+      "file": "standard/settings.md",
+      "line": 252,
+      "heading": "Multitasking"
+    }
+  ],
+  "music-actions": [
+    {
+      "file": "standard/music.md",
+      "line": 1,
+      "heading": "Music Actions"
+    }
+  ],
+  "must-output": [
+    {
+      "file": "standard/basic.md",
+      "line": 160,
+      "heading": "Must Output"
+    }
+  ],
+  "name": [
+    {
+      "file": "definitions.md",
+      "line": 133,
+      "heading": "Name"
+    }
+  ],
+  "nesting": [
+    {
+      "file": "control-flow.md",
+      "line": 135,
+      "heading": "Nesting"
+    }
+  ],
+  "network-actions": [
+    {
+      "file": "standard/network.md",
+      "line": 1,
+      "heading": "Network Actions"
+    }
+  ],
+  "no-input": [
+    {
+      "file": "definitions.md",
+      "line": 51,
+      "heading": "No Input"
+    }
+  ],
+  "notes": [
+    {
+      "file": "standard/documents.md",
+      "line": 331,
+      "heading": "Notes"
+    }
+  ],
+  "nothing": [
+    {
+      "file": "standard/basic.md",
+      "line": 51,
+      "heading": "Nothing"
+    }
+  ],
+  "notifications": [
+    {
+      "file": "standard/basic.md",
+      "line": 99,
+      "heading": "Notifications"
+    },
+    {
+      "file": "standard/settings.md",
+      "line": 95,
+      "heading": "Notifications"
+    }
+  ],
+  "number": [
+    {
+      "file": "standard/basic.md",
+      "line": 61,
+      "heading": "Number"
+    },
+    {
+      "file": "types.md",
+      "line": 43,
+      "heading": "Number"
+    },
+    {
+      "file": "types.md",
+      "line": 400,
+      "heading": "Number"
+    }
+  ],
+  "number-value-modifiers": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 65,
+      "heading": "Number Value Modifiers"
+    }
+  ],
+  "numbers": [
+    {
+      "file": "standard/scripting.md",
+      "line": 328,
+      "heading": "Numbers"
+    }
+  ],
+  "offline": [
+    {
+      "file": "index.md",
+      "line": 7,
+      "heading": "Offline"
+    }
+  ],
+  "open-app": [
+    {
+      "file": "standard/scripting.md",
+      "line": 77,
+      "heading": "Open App"
+    }
+  ],
+  "open-custom-x-callback-url": [
+    {
+      "file": "standard/web.md",
+      "line": 9,
+      "heading": "Open Custom X-Callback URL"
+    }
+  ],
+  "open-event-in-calendar": [
+    {
+      "file": "standard/calendar.md",
+      "line": 141,
+      "heading": "Open Event in Calendar"
+    }
+  ],
+  "open-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 247,
+      "heading": "Open File"
+    }
+  ],
+  "open-in-maps": [
+    {
+      "file": "standard/location.md",
+      "line": 102,
+      "heading": "Open in Maps"
+    }
+  ],
+  "open-note": [
+    {
+      "file": "standard/documents.md",
+      "line": 343,
+      "heading": "Open Note"
+    }
+  ],
+  "open-reader": [
+    {
+      "file": "standard/a11y.md",
+      "line": 228,
+      "heading": "Open Reader"
+    }
+  ],
+  "open-reminders-list": [
+    {
+      "file": "standard/calendar.md",
+      "line": 361,
+      "heading": "Open Reminders List"
+    }
+  ],
+  "open-shortcut": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 58,
+      "heading": "Open Shortcut"
+    }
+  ],
+  "open-url": [
+    {
+      "file": "standard/web.md",
+      "line": 276,
+      "heading": "Open URL"
+    }
+  ],
+  "open-x-callback-url": [
+    {
+      "file": "standard/web.md",
+      "line": 286,
+      "heading": "Open X-Callback URL"
+    }
+  ],
+  "optimize-pdf": [
+    {
+      "file": "standard/pdf.md",
+      "line": 49,
+      "heading": "Optimize PDF"
+    }
+  ],
+  "optional": [
+    {
+      "file": "functions.md",
+      "line": 40,
+      "heading": "Optional"
+    }
+  ],
+  "output": [
+    {
+      "file": "standard/basic.md",
+      "line": 148,
+      "heading": "Output"
+    }
+  ],
+  "output-or-copy-to-clipboard": [
+    {
+      "file": "standard/basic.md",
+      "line": 170,
+      "heading": "Output or Copy to Clipboard"
+    }
+  ],
+  "output-type": [
+    {
+      "file": "functions.md",
+      "line": 86,
+      "heading": "Output Type"
+    }
+  ],
+  "output-type-coercion": [
+    {
+      "file": "functions.md",
+      "line": 96,
+      "heading": "Output Type Coercion"
+    }
+  ],
+  "overlay-image": [
+    {
+      "file": "standard/images.md",
+      "line": 225,
+      "heading": "Overlay Image"
+    }
+  ],
+  "package-already-installed": [
+    {
+      "file": "package-manager.md",
+      "line": 126,
+      "heading": "“Package already installed”"
+    }
+  ],
+  "package-must-follow-pattern": [
+    {
+      "file": "package-manager.md",
+      "line": 142,
+      "heading": "“Package must follow pattern”"
+    }
+  ],
+  "package-naming": [
+    {
+      "file": "package-manager.md",
+      "line": 37,
+      "heading": "Package Naming"
+    }
+  ],
+  "package-structure": [
+    {
+      "file": "package-manager.md",
+      "line": 3,
+      "heading": "Package Structure"
+    }
+  ],
+  "parsing-shortcut-data": [
+    {
+      "file": "action-definitions.md",
+      "line": 17,
+      "heading": "Parsing Shortcut Data"
+    },
+    {
+      "file": "raw-actions.md",
+      "line": 18,
+      "heading": "Parsing Shortcut Data"
+    }
+  ],
+  "passwords": [
+    {
+      "file": "standard/scripting.md",
+      "line": 358,
+      "heading": "Passwords"
+    }
+  ],
+  "paste": [
+    {
+      "file": "copy-paste.md",
+      "line": 15,
+      "heading": "Paste"
+    }
+  ],
+  "pause": [
+    {
+      "file": "standard/music.md",
+      "line": 106,
+      "heading": "Pause"
+    }
+  ],
+  "pdf-actions": [
+    {
+      "file": "standard/pdf.md",
+      "line": 1,
+      "heading": "PDF Actions"
+    }
+  ],
+  "phone": [
+    {
+      "file": "standard/contacts.md",
+      "line": 196,
+      "heading": "Phone"
+    }
+  ],
+  "phone-number": [
+    {
+      "file": "standard/contacts.md",
+      "line": 233,
+      "heading": "Phone Number"
+    }
+  ],
+  "photo": [
+    {
+      "file": "vcards.md",
+      "line": 38,
+      "heading": "Photo"
+    }
+  ],
+  "photos-actions": [
+    {
+      "file": "standard/photos.md",
+      "line": 1,
+      "heading": "Photos Actions"
+    }
+  ],
+  "play": [
+    {
+      "file": "standard/music.md",
+      "line": 116,
+      "heading": "Play"
+    }
+  ],
+  "play-audio": [
+    {
+      "file": "standard/media.md",
+      "line": 54,
+      "heading": "Play Audio"
+    }
+  ],
+  "play-music": [
+    {
+      "file": "standard/music.md",
+      "line": 65,
+      "heading": "Play Music"
+    }
+  ],
+  "play-next": [
+    {
+      "file": "standard/music.md",
+      "line": 126,
+      "heading": "Play Next"
+    },
+    {
+      "file": "standard/music.md",
+      "line": 136,
+      "heading": "Play Next"
+    }
+  ],
+  "play-podcast": [
+    {
+      "file": "standard/media.md",
+      "line": 166,
+      "heading": "Play Podcast"
+    }
+  ],
+  "playback": [
+    {
+      "file": "standard/music.md",
+      "line": 94,
+      "heading": "Playback"
+    }
+  ],
+  "playlists": [
+    {
+      "file": "standard/music.md",
+      "line": 194,
+      "heading": "Playlists"
+    }
+  ],
+  "podcasts": [
+    {
+      "file": "standard/media.md",
+      "line": 134,
+      "heading": "Podcasts"
+    }
+  ],
+  "pre-defined-arrays-may-be-slow": [
+    {
+      "file": "best-practices.md",
+      "line": 13,
+      "heading": "Pre-defined arrays may be slow"
+    }
+  ],
+  "prepend-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 257,
+      "heading": "Prepend File"
+    }
+  ],
+  "print": [
+    {
+      "file": "standard/documents.md",
+      "line": 363,
+      "heading": "Print"
+    }
+  ],
+  "printing": [
+    {
+      "file": "standard/documents.md",
+      "line": 361,
+      "heading": "Printing"
+    }
+  ],
+  "prioritization-of-instructional-or-contact-comments": [
+    {
+      "file": "functions.md",
+      "line": 141,
+      "heading": "Prioritization of Instructional or Contact Comments"
+    }
+  ],
+  "prompt": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 158,
+      "heading": "Prompt"
+    }
+  ],
+  "proofread-text": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 182,
+      "heading": "Proofread Text"
+    }
+  ],
+  "qr-codes": [
+    {
+      "file": "standard/documents.md",
+      "line": 371,
+      "heading": "QR Codes"
+    }
+  ],
+  "quantity": [
+    {
+      "file": "types.md",
+      "line": 193,
+      "heading": "Quantity"
+    }
+  ],
+  "quantity-enumeration": [
+    {
+      "file": "types.md",
+      "line": 256,
+      "heading": "Quantity Enumeration"
+    }
+  ],
+  "quick-action-types": [
+    {
+      "file": "definitions.md",
+      "line": 105,
+      "heading": "Quick Action Types"
+    }
+  ],
+  "quick-actions": [
+    {
+      "file": "definitions.md",
+      "line": 118,
+      "heading": "Quick Actions"
+    }
+  ],
+  "quick-look": [
+    {
+      "file": "standard/basic.md",
+      "line": 180,
+      "heading": "Quick Look"
+    }
+  ],
+  "quit-all-apps": [
+    {
+      "file": "standard/scripting.md",
+      "line": 87,
+      "heading": "Quit All Apps"
+    }
+  ],
+  "qut-app": [
+    {
+      "file": "standard/scripting.md",
+      "line": 97,
+      "heading": "Qut App"
+    }
+  ],
+  "random-number": [
+    {
+      "file": "standard/scripting.md",
+      "line": 350,
+      "heading": "Random Number"
+    }
+  ],
+  "raw-action": [
+    {
+      "file": "standard/builtin.md",
+      "line": 45,
+      "heading": "Raw Action"
+    }
+  ],
+  "raw-text": [
+    {
+      "file": "types.md",
+      "line": 33,
+      "heading": "Raw Text"
+    }
+  ],
+  "reboot": [
+    {
+      "file": "standard/device.md",
+      "line": 62,
+      "heading": "Reboot"
+    }
+  ],
+  "record-audio": [
+    {
+      "file": "standard/media.md",
+      "line": 64,
+      "heading": "Record Audio"
+    }
+  ],
+  "recursion": [
+    {
+      "file": "functions.md",
+      "line": 117,
+      "heading": "Recursion"
+    }
+  ],
+  "reference-syntax": [
+    {
+      "file": "references.md",
+      "line": 57,
+      "heading": "Reference syntax"
+    }
+  ],
+  "regular-expressions": [
+    {
+      "file": "standard/text.md",
+      "line": 113,
+      "heading": "Regular Expressions"
+    }
+  ],
+  "reminders": [
+    {
+      "file": "standard/calendar.md",
+      "line": 351,
+      "heading": "Reminders"
+    }
+  ],
+  "remove-a-package": [
+    {
+      "file": "package-manager.md",
+      "line": 73,
+      "heading": "Remove a Package"
+    }
+  ],
+  "remove-contact-detail": [
+    {
+      "file": "standard/contacts.md",
+      "line": 96,
+      "heading": "Remove Contact Detail"
+    }
+  ],
+  "remove-events": [
+    {
+      "file": "standard/calendar.md",
+      "line": 151,
+      "heading": "Remove Events"
+    }
+  ],
+  "remove-image-background": [
+    {
+      "file": "standard/images.md",
+      "line": 235,
+      "heading": "Remove Image Background"
+    }
+  ],
+  "remove-location-from-list": [
+    {
+      "file": "standard/location.md",
+      "line": 182,
+      "heading": "Remove Location from List"
+    }
+  ],
+  "remove-photo-from-album": [
+    {
+      "file": "standard/photos.md",
+      "line": 73,
+      "heading": "Remove Photo from Album"
+    }
+  ],
+  "remove-reminders": [
+    {
+      "file": "standard/calendar.md",
+      "line": 369,
+      "heading": "Remove Reminders"
+    }
+  ],
+  "rename-album": [
+    {
+      "file": "standard/photos.md",
+      "line": 81,
+      "heading": "Rename Album"
+    }
+  ],
+  "rename-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 267,
+      "heading": "Rename File"
+    }
+  ],
+  "repeat": [
+    {
+      "file": "control-flow.md",
+      "line": 82,
+      "heading": "Repeat"
+    }
+  ],
+  "repeat-globals": [
+    {
+      "file": "control-flow.md",
+      "line": 129,
+      "heading": "Repeat Globals"
+    }
+  ],
+  "repeat-with-each": [
+    {
+      "file": "control-flow.md",
+      "line": 116,
+      "heading": "Repeat With Each"
+    }
+  ],
+  "replace-text": [
+    {
+      "file": "standard/text.md",
+      "line": 251,
+      "heading": "Replace Text"
+    }
+  ],
+  "resize-image": [
+    {
+      "file": "standard/images.md",
+      "line": 243,
+      "heading": "Resize Image"
+    }
+  ],
+  "resize-image-by-longest-edge": [
+    {
+      "file": "standard/images.md",
+      "line": 251,
+      "heading": "Resize Image By Longest Edge"
+    }
+  ],
+  "resize-image-by-percent": [
+    {
+      "file": "standard/images.md",
+      "line": 259,
+      "heading": "Resize Image By Percent"
+    }
+  ],
+  "resize-window": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 188,
+      "heading": "Resize Window"
+    }
+  ],
+  "result": [
+    {
+      "file": "comments.md",
+      "line": 26,
+      "heading": "Result"
+    }
+  ],
+  "return-to-home-screen": [
+    {
+      "file": "standard/scripting.md",
+      "line": 380,
+      "heading": "Return to Home Screen"
+    }
+  ],
+  "returning-a-value": [
+    {
+      "file": "functions.md",
+      "line": 72,
+      "heading": "Returning a Value"
+    }
+  ],
+  "reveal-in-finder": [
+    {
+      "file": "standard/documents.md",
+      "line": 275,
+      "heading": "Reveal in Finder"
+    }
+  ],
+  "rewrite-text": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 192,
+      "heading": "Rewrite Text"
+    }
+  ],
+  "rich-text": [
+    {
+      "file": "standard/text.md",
+      "line": 143,
+      "heading": "Rich Text"
+    }
+  ],
+  "rotate-media": [
+    {
+      "file": "standard/images.md",
+      "line": 267,
+      "heading": "Rotate Media"
+    }
+  ],
+  "round": [
+    {
+      "file": "standard/math.md",
+      "line": 57,
+      "heading": "Round"
+    }
+  ],
+  "round-down": [
+    {
+      "file": "standard/math.md",
+      "line": 77,
+      "heading": "Round Down"
+    }
+  ],
+  "round-up": [
+    {
+      "file": "standard/math.md",
+      "line": 97,
+      "heading": "Round Up"
+    }
+  ],
+  "rounding": [
+    {
+      "file": "standard/math.md",
+      "line": 55,
+      "heading": "Rounding"
+    }
+  ],
+  "run-apple-script": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 106,
+      "heading": "Run Apple Script"
+    }
+  ],
+  "run-javascript": [
+    {
+      "file": "standard/stdlib.md",
+      "line": 40,
+      "heading": "Run JavaScript"
+    }
+  ],
+  "run-javascript-for-automation": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 116,
+      "heading": "Run JavaScript for Automation"
+    }
+  ],
+  "run-javascript-on-webpage": [
+    {
+      "file": "standard/web.md",
+      "line": 183,
+      "heading": "Run JavaScript on Webpage"
+    }
+  ],
+  "run-self": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 68,
+      "heading": "Run Self"
+    }
+  ],
+  "run-shell-script": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 126,
+      "heading": "Run Shell Script"
+    }
+  ],
+  "run-shortcut": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 78,
+      "heading": "Run Shortcut"
+    }
+  ],
+  "run-ssh-script": [
+    {
+      "file": "standard/network.md",
+      "line": 61,
+      "heading": "Run SSH Script"
+    }
+  ],
+  "safari": [
+    {
+      "file": "standard/web.md",
+      "line": 134,
+      "heading": "Safari"
+    }
+  ],
+  "save-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 283,
+      "heading": "Save File"
+    }
+  ],
+  "save-file-prompt": [
+    {
+      "file": "standard/documents.md",
+      "line": 293,
+      "heading": "Save File Prompt"
+    }
+  ],
+  "save-photo-to-album": [
+    {
+      "file": "standard/photos.md",
+      "line": 89,
+      "heading": "Save Photo to Album"
+    }
+  ],
+  "screen-time": [
+    {
+      "file": "standard/device.md",
+      "line": 148,
+      "heading": "Screen Time"
+    }
+  ],
+  "scripting": [
+    {
+      "file": "standard/stdlib.md",
+      "line": 11,
+      "heading": "Scripting"
+    }
+  ],
+  "scripting-actions": [
+    {
+      "file": "standard/scripting.md",
+      "line": 1,
+      "heading": "Scripting Actions"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 104,
+      "heading": "Scripts"
+    }
+  ],
+  "search": [
+    {
+      "file": "standard/basic.md",
+      "line": 208,
+      "heading": "Search"
+    }
+  ],
+  "search-app-store": [
+    {
+      "file": "standard/media.md",
+      "line": 9,
+      "heading": "Search App Store"
+    }
+  ],
+  "search-giphy": [
+    {
+      "file": "standard/web.md",
+      "line": 47,
+      "heading": "Search Giphy"
+    }
+  ],
+  "search-passwords": [
+    {
+      "file": "standard/scripting.md",
+      "line": 360,
+      "heading": "Search Passwords"
+    }
+  ],
+  "search-photos": [
+    {
+      "file": "standard/photos.md",
+      "line": 97,
+      "heading": "Search Photos"
+    }
+  ],
+  "search-podcasts": [
+    {
+      "file": "standard/media.md",
+      "line": 174,
+      "heading": "Search Podcasts"
+    }
+  ],
+  "search-shortcuts": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 88,
+      "heading": "Search Shortcuts"
+    }
+  ],
+  "search-spotlight": [
+    {
+      "file": "standard/basic.md",
+      "line": 210,
+      "heading": "Search/Spotlight"
+    }
+  ],
+  "search-voice-memos": [
+    {
+      "file": "standard/media.md",
+      "line": 253,
+      "heading": "Search Voice Memos"
+    }
+  ],
+  "search-web": [
+    {
+      "file": "standard/web.md",
+      "line": 193,
+      "heading": "Search Web"
+    }
+  ],
+  "searching-actions": [
+    {
+      "file": "import-actions.md",
+      "line": 27,
+      "heading": "Searching Actions"
+    }
+  ],
+  "security-trusted-packages": [
+    {
+      "file": "package-manager.md",
+      "line": 89,
+      "heading": "Security: Trusted Packages"
+    }
+  ],
+  "seek": [
+    {
+      "file": "standard/music.md",
+      "line": 146,
+      "heading": "Seek"
+    }
+  ],
+  "select-contact": [
+    {
+      "file": "standard/contacts.md",
+      "line": 128,
+      "heading": "Select Contact"
+    }
+  ],
+  "select-email-address": [
+    {
+      "file": "standard/contacts.md",
+      "line": 188,
+      "heading": "Select Email Address"
+    }
+  ],
+  "select-file": [
+    {
+      "file": "standard/documents.md",
+      "line": 303,
+      "heading": "Select File"
+    }
+  ],
+  "select-folder": [
+    {
+      "file": "standard/documents.md",
+      "line": 313,
+      "heading": "Select Folder"
+    }
+  ],
+  "select-music": [
+    {
+      "file": "standard/music.md",
+      "line": 86,
+      "heading": "Select Music"
+    }
+  ],
+  "select-phone-number": [
+    {
+      "file": "standard/contacts.md",
+      "line": 243,
+      "heading": "Select Phone Number"
+    }
+  ],
+  "select-photos": [
+    {
+      "file": "standard/photos.md",
+      "line": 105,
+      "heading": "Select Photos"
+    }
+  ],
+  "send-email": [
+    {
+      "file": "standard/sharing.md",
+      "line": 95,
+      "heading": "Send Email"
+    }
+  ],
+  "send-message": [
+    {
+      "file": "standard/sharing.md",
+      "line": 105,
+      "heading": "Send Message"
+    }
+  ],
+  "server": [
+    {
+      "file": "standard/network.md",
+      "line": 49,
+      "heading": "Server"
+    }
+  ],
+  "set-airdrop-receiving": [
+    {
+      "file": "standard/sharing.md",
+      "line": 29,
+      "heading": "Set AirDrop Receiving"
+    }
+  ],
+  "set-airplane-mode": [
+    {
+      "file": "standard/device.md",
+      "line": 72,
+      "heading": "Set Airplane Mode"
+    }
+  ],
+  "set-appearance-to-dark": [
+    {
+      "file": "standard/settings.md",
+      "line": 25,
+      "heading": "Set Appearance to Dark"
+    }
+  ],
+  "set-appearance-to-light": [
+    {
+      "file": "standard/settings.md",
+      "line": 33,
+      "heading": "Set Appearance to Light"
+    }
+  ],
+  "set-auto-answer-calls": [
+    {
+      "file": "standard/a11y.md",
+      "line": 9,
+      "heading": "Set Auto Answer Calls"
+    }
+  ],
+  "set-background-sound": [
+    {
+      "file": "standard/a11y.md",
+      "line": 17,
+      "heading": "Set Background Sound"
+    }
+  ],
+  "set-background-sound-volume": [
+    {
+      "file": "standard/a11y.md",
+      "line": 46,
+      "heading": "Set Background Sound Volume"
+    }
+  ],
+  "set-background-sounds": [
+    {
+      "file": "standard/a11y.md",
+      "line": 54,
+      "heading": "Set Background Sounds"
+    },
+    {
+      "file": "standard/a11y.md",
+      "line": 202,
+      "heading": "Set Background Sounds"
+    }
+  ],
+  "set-bluetooth": [
+    {
+      "file": "standard/settings.md",
+      "line": 208,
+      "heading": "Set Bluetooth"
+    }
+  ],
+  "set-brightness": [
+    {
+      "file": "standard/settings.md",
+      "line": 49,
+      "heading": "Set Brightness"
+    }
+  ],
+  "set-cellular-data": [
+    {
+      "file": "standard/settings.md",
+      "line": 216,
+      "heading": "Set Cellular Data"
+    }
+  ],
+  "set-classic-invert": [
+    {
+      "file": "standard/a11y.md",
+      "line": 248,
+      "heading": "Set Classic Invert"
+    }
+  ],
+  "set-clipboard": [
+    {
+      "file": "standard/sharing.md",
+      "line": 55,
+      "heading": "Set Clipboard"
+    }
+  ],
+  "set-closed-captions-sdh": [
+    {
+      "file": "standard/a11y.md",
+      "line": 108,
+      "heading": "Set Closed Captions SDH"
+    }
+  ],
+  "set-color-filters": [
+    {
+      "file": "standard/a11y.md",
+      "line": 256,
+      "heading": "Set Color Filters"
+    }
+  ],
+  "set-focus-mode": [
+    {
+      "file": "standard/settings.md",
+      "line": 107,
+      "heading": "Set Focus Mode"
+    }
+  ],
+  "set-led-flash": [
+    {
+      "file": "standard/a11y.md",
+      "line": 116,
+      "heading": "Set LED Flash"
+    }
+  ],
+  "set-left-right-balance": [
+    {
+      "file": "standard/a11y.md",
+      "line": 124,
+      "heading": "Set Left-Right Balance"
+    }
+  ],
+  "set-live-captions": [
+    {
+      "file": "standard/a11y.md",
+      "line": 132,
+      "heading": "Set Live Captions"
+    }
+  ],
+  "set-media-background-sounds": [
+    {
+      "file": "standard/a11y.md",
+      "line": 62,
+      "heading": "Set Media Background Sounds"
+    }
+  ],
+  "set-media-metadata": [
+    {
+      "file": "standard/media.md",
+      "line": 120,
+      "heading": "Set Media Metadata"
+    }
+  ],
+  "set-mono-audio": [
+    {
+      "file": "standard/a11y.md",
+      "line": 140,
+      "heading": "Set Mono Audio"
+    }
+  ],
+  "set-multitasking-mode": [
+    {
+      "file": "standard/settings.md",
+      "line": 254,
+      "heading": "Set Multitasking Mode"
+    }
+  ],
+  "set-name": [
+    {
+      "file": "standard/scripting.md",
+      "line": 182,
+      "heading": "Set Name"
+    }
+  ],
+  "set-night-shift": [
+    {
+      "file": "standard/settings.md",
+      "line": 65,
+      "heading": "Set Night Shift"
+    }
+  ],
+  "set-personal-hotspot-password": [
+    {
+      "file": "standard/network.md",
+      "line": 128,
+      "heading": "Set Personal Hotspot Password"
+    }
+  ],
+  "set-reduce-motion": [
+    {
+      "file": "standard/a11y.md",
+      "line": 264,
+      "heading": "Set Reduce Motion"
+    }
+  ],
+  "set-reduce-transparency": [
+    {
+      "file": "standard/a11y.md",
+      "line": 272,
+      "heading": "Set Reduce Transparency"
+    }
+  ],
+  "set-smart-invert": [
+    {
+      "file": "standard/a11y.md",
+      "line": 280,
+      "heading": "Set Smart Invert"
+    }
+  ],
+  "set-sound-recognition": [
+    {
+      "file": "standard/a11y.md",
+      "line": 148,
+      "heading": "Set Sound Recognition"
+    }
+  ],
+  "set-stage-manager": [
+    {
+      "file": "standard/settings.md",
+      "line": 9,
+      "heading": "Set Stage Manager"
+    }
+  ],
+  "set-switch-control": [
+    {
+      "file": "standard/a11y.md",
+      "line": 70,
+      "heading": "Set Switch Control"
+    }
+  ],
+  "set-text-size": [
+    {
+      "file": "standard/a11y.md",
+      "line": 288,
+      "heading": "Set Text Size"
+    }
+  ],
+  "set-true-tone": [
+    {
+      "file": "standard/settings.md",
+      "line": 73,
+      "heading": "Set True Tone"
+    }
+  ],
+  "set-value-in-dictionary": [
+    {
+      "file": "standard/scripting.md",
+      "line": 162,
+      "heading": "Set Value in Dictionary"
+    }
+  ],
+  "set-voice-control": [
+    {
+      "file": "standard/a11y.md",
+      "line": 311,
+      "heading": "Set Voice Control"
+    }
+  ],
+  "set-volume": [
+    {
+      "file": "standard/settings.md",
+      "line": 57,
+      "heading": "Set Volume"
+    }
+  ],
+  "set-wallpaper": [
+    {
+      "file": "standard/settings.md",
+      "line": 198,
+      "heading": "Set Wallpaper"
+    }
+  ],
+  "set-white-point": [
+    {
+      "file": "standard/a11y.md",
+      "line": 319,
+      "heading": "Set White Point"
+    }
+  ],
+  "set-wifi": [
+    {
+      "file": "standard/settings.md",
+      "line": 224,
+      "heading": "Set Wifi"
+    }
+  ],
+  "set-zoom": [
+    {
+      "file": "standard/a11y.md",
+      "line": 327,
+      "heading": "Set Zoom"
+    }
+  ],
+  "settings-actions": [
+    {
+      "file": "standard/settings.md",
+      "line": 1,
+      "heading": "Settings Actions"
+    }
+  ],
+  "setup-code-to-copy": [
+    {
+      "file": "copy-paste.md",
+      "line": 5,
+      "heading": "Setup code to copy"
+    }
+  ],
+  "share": [
+    {
+      "file": "standard/sharing.md",
+      "line": 9,
+      "heading": "Share"
+    }
+  ],
+  "sharing-actions": [
+    {
+      "file": "standard/sharing.md",
+      "line": 1,
+      "heading": "Sharing Actions"
+    }
+  ],
+  "shazam": [
+    {
+      "file": "standard/media.md",
+      "line": 180,
+      "heading": "Shazam"
+    }
+  ],
+  "shortcuts-actions": [
+    {
+      "file": "standard/shortcuts.md",
+      "line": 1,
+      "heading": "Shortcuts Actions"
+    }
+  ],
+  "show-control-center": [
+    {
+      "file": "standard/device.md",
+      "line": 108,
+      "heading": "Show Control Center"
+    }
+  ],
+  "show-in-itunes": [
+    {
+      "file": "standard/media.md",
+      "line": 17,
+      "heading": "Show In iTunes"
+    }
+  ],
+  "show-notification": [
+    {
+      "file": "standard/basic.md",
+      "line": 140,
+      "heading": "Show Notification"
+    }
+  ],
+  "show-quick-note": [
+    {
+      "file": "standard/documents.md",
+      "line": 353,
+      "heading": "Show Quick Note"
+    }
+  ],
+  "show-result": [
+    {
+      "file": "standard/basic.md",
+      "line": 190,
+      "heading": "Show Result"
+    }
+  ],
+  "show-webpage": [
+    {
+      "file": "standard/web.md",
+      "line": 215,
+      "heading": "Show Webpage"
+    }
+  ],
+  "shut-down": [
+    {
+      "file": "standard/device.md",
+      "line": 80,
+      "heading": "Shut Down"
+    }
+  ],
+  "single-line-comment": [
+    {
+      "file": "comments.md",
+      "line": 7,
+      "heading": "Single-line comment:"
+    }
+  ],
+  "skip-back": [
+    {
+      "file": "standard/music.md",
+      "line": 168,
+      "heading": "Skip Back"
+    }
+  ],
+  "skip-forward": [
+    {
+      "file": "standard/music.md",
+      "line": 178,
+      "heading": "Skip Forward"
+    }
+  ],
+  "slash-syntax-comments": [
+    {
+      "file": "comments.md",
+      "line": 42,
+      "heading": "Slash syntax comments"
+    }
+  ],
+  "sleep": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 84,
+      "heading": "Sleep"
+    }
+  ],
+  "small-shortcut-file-size": [
+    {
+      "file": "best-practices.md",
+      "line": 35,
+      "heading": "Small Shortcut File Size"
+    }
+  ],
+  "speak": [
+    {
+      "file": "standard/text.md",
+      "line": 95,
+      "heading": "Speak"
+    }
+  ],
+  "split-apps": [
+    {
+      "file": "standard/scripting.md",
+      "line": 107,
+      "heading": "Split Apps"
+    }
+  ],
+  "split-pdf": [
+    {
+      "file": "standard/pdf.md",
+      "line": 59,
+      "heading": "Split PDF"
+    }
+  ],
+  "split-text": [
+    {
+      "file": "standard/text.md",
+      "line": 261,
+      "heading": "Split Text"
+    }
+  ],
+  "standard-actions": [
+    {
+      "file": "actions.md",
+      "line": 9,
+      "heading": "Standard Actions"
+    },
+    {
+      "file": "import-actions.md",
+      "line": 17,
+      "heading": "Standard Actions"
+    }
+  ],
+  "standard-library-action": [
+    {
+      "file": "vcards.md",
+      "line": 62,
+      "heading": "Standard Library Action"
+    }
+  ],
+  "standard-library-of-functions": [
+    {
+      "file": "standard/stdlib.md",
+      "line": 1,
+      "heading": "Standard Library of Functions"
+    }
+  ],
+  "start-point-speak": [
+    {
+      "file": "standard/a11y.md",
+      "line": 238,
+      "heading": "Start Point & Speak"
+    }
+  ],
+  "start-screensaver": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 96,
+      "heading": "Start Screensaver"
+    }
+  ],
+  "start-shazam": [
+    {
+      "file": "standard/media.md",
+      "line": 206,
+      "heading": "Start Shazam"
+    }
+  ],
+  "start-timer": [
+    {
+      "file": "standard/calendar.md",
+      "line": 377,
+      "heading": "Start Timer"
+    }
+  ],
+  "statistic": [
+    {
+      "file": "standard/math.md",
+      "line": 36,
+      "heading": "Statistic"
+    }
+  ],
+  "step-1-set-up-the-shortcut-in-the-shortcuts-app": [
+    {
+      "file": "references.md",
+      "line": 9,
+      "heading": "Step 1: Set up the Shortcut in the Shortcuts app"
+    }
+  ],
+  "step-2-extract-references": [
+    {
+      "file": "references.md",
+      "line": 17,
+      "heading": "Step 2: Extract references"
+    }
+  ],
+  "stop-and-output": [
+    {
+      "file": "standard/basic.md",
+      "line": 200,
+      "heading": "Stop and Output"
+    }
+  ],
+  "stop-and-respond": [
+    {
+      "file": "definitions.md",
+      "line": 55,
+      "heading": "Stop and Respond"
+    }
+  ],
+  "stop-shortcut": [
+    {
+      "file": "standard/basic.md",
+      "line": 71,
+      "heading": "Stop Shortcut"
+    }
+  ],
+  "storing-question-values": [
+    {
+      "file": "import-questions.md",
+      "line": 23,
+      "heading": "Storing Question Values"
+    }
+  ],
+  "street-address": [
+    {
+      "file": "standard/location.md",
+      "line": 72,
+      "heading": "Street Address"
+    }
+  ],
+  "strip-image-metadata": [
+    {
+      "file": "standard/images.md",
+      "line": 277,
+      "heading": "Strip Image Metadata"
+    }
+  ],
+  "strip-media-metadata": [
+    {
+      "file": "standard/media.md",
+      "line": 128,
+      "heading": "Strip Media Metadata"
+    }
+  ],
+  "summarize-text": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 202,
+      "heading": "Summarize Text"
+    }
+  ],
+  "summarize-text-key-points": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 212,
+      "heading": "Summarize Text Key Points"
+    }
+  ],
+  "supported-reference-types": [
+    {
+      "file": "references.md",
+      "line": 70,
+      "heading": "Supported reference types"
+    }
+  ],
+  "system": [
+    {
+      "file": "standard/scripting.md",
+      "line": 368,
+      "heading": "System"
+    }
+  ],
+  "table-of-contents": [
+    {
+      "file": "actions.md",
+      "line": 23,
+      "heading": "Table of contents"
+    },
+    {
+      "file": "comments.md",
+      "line": 1,
+      "heading": "Table of contents"
+    },
+    {
+      "file": "index.md",
+      "line": 43,
+      "heading": "Table of contents"
+    },
+    {
+      "file": "menus.md",
+      "line": 1,
+      "heading": "Table of contents"
+    }
+  ],
+  "take-interactive-screenshot": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 57,
+      "heading": "Take Interactive Screenshot"
+    }
+  ],
+  "take-photo": [
+    {
+      "file": "standard/media.md",
+      "line": 84,
+      "heading": "Take Photo"
+    },
+    {
+      "file": "standard/media.md",
+      "line": 110,
+      "heading": "Take Photo"
+    }
+  ],
+  "take-screenshot": [
+    {
+      "file": "standard/media.md",
+      "line": 25,
+      "heading": "Take Screenshot"
+    }
+  ],
+  "text": [
+    {
+      "file": "types.md",
+      "line": 3,
+      "heading": "Text"
+    },
+    {
+      "file": "types.md",
+      "line": 369,
+      "heading": "Text"
+    }
+  ],
+  "text-actions": [
+    {
+      "file": "standard/text.md",
+      "line": 1,
+      "heading": "Text Actions"
+    }
+  ],
+  "text-editing": [
+    {
+      "file": "standard/text.md",
+      "line": 179,
+      "heading": "Text Editing"
+    }
+  ],
+  "tidy-packages": [
+    {
+      "file": "package-manager.md",
+      "line": 81,
+      "heading": "Tidy Packages"
+    }
+  ],
+  "timers": [
+    {
+      "file": "standard/calendar.md",
+      "line": 375,
+      "heading": "Timers"
+    }
+  ],
+  "title-case": [
+    {
+      "file": "standard/text.md",
+      "line": 271,
+      "heading": "Title Case"
+    }
+  ],
+  "toggle-airplane-mode": [
+    {
+      "file": "standard/device.md",
+      "line": 90,
+      "heading": "Toggle Airplane Mode"
+    }
+  ],
+  "toggle-alarm": [
+    {
+      "file": "standard/calendar.md",
+      "line": 41,
+      "heading": "Toggle Alarm"
+    }
+  ],
+  "toggle-appearance": [
+    {
+      "file": "standard/settings.md",
+      "line": 41,
+      "heading": "Toggle Appearance"
+    }
+  ],
+  "toggle-auto-answer-calls": [
+    {
+      "file": "standard/a11y.md",
+      "line": 78,
+      "heading": "Toggle Auto Answer Calls"
+    }
+  ],
+  "toggle-background-sounds": [
+    {
+      "file": "standard/a11y.md",
+      "line": 84,
+      "heading": "Toggle Background Sounds"
+    },
+    {
+      "file": "standard/a11y.md",
+      "line": 210,
+      "heading": "Toggle Background Sounds"
+    }
+  ],
+  "toggle-bluetooth": [
+    {
+      "file": "standard/settings.md",
+      "line": 232,
+      "heading": "Toggle Bluetooth"
+    }
+  ],
+  "toggle-cellular-data": [
+    {
+      "file": "standard/settings.md",
+      "line": 238,
+      "heading": "Toggle Cellular Data"
+    }
+  ],
+  "toggle-classic-invert": [
+    {
+      "file": "standard/a11y.md",
+      "line": 335,
+      "heading": "Toggle Classic Invert"
+    }
+  ],
+  "toggle-closed-captions-sdh": [
+    {
+      "file": "standard/a11y.md",
+      "line": 164,
+      "heading": "Toggle Closed Captions SDH"
+    }
+  ],
+  "toggle-color-filters": [
+    {
+      "file": "standard/a11y.md",
+      "line": 343,
+      "heading": "Toggle Color Filters"
+    }
+  ],
+  "toggle-do-not-disturb": [
+    {
+      "file": "standard/settings.md",
+      "line": 132,
+      "heading": "Toggle Do Not Disturb"
+    }
+  ],
+  "toggle-focus-mode": [
+    {
+      "file": "standard/settings.md",
+      "line": 140,
+      "heading": "Toggle Focus Mode"
+    }
+  ],
+  "toggle-led-flash": [
+    {
+      "file": "standard/a11y.md",
+      "line": 172,
+      "heading": "Toggle LED Flash"
+    }
+  ],
+  "toggle-left-right-balance": [
+    {
+      "file": "standard/a11y.md",
+      "line": 180,
+      "heading": "Toggle Left-Right Balance"
+    }
+  ],
+  "toggle-live-captions": [
+    {
+      "file": "standard/a11y.md",
+      "line": 188,
+      "heading": "Toggle Live Captions"
+    }
+  ],
+  "toggle-media-background-sounds": [
+    {
+      "file": "standard/a11y.md",
+      "line": 92,
+      "heading": "Toggle Media Background Sounds"
+    }
+  ],
+  "toggle-mono-audio": [
+    {
+      "file": "standard/a11y.md",
+      "line": 196,
+      "heading": "Toggle Mono Audio"
+    }
+  ],
+  "toggle-night-shift": [
+    {
+      "file": "standard/settings.md",
+      "line": 81,
+      "heading": "Toggle Night Shift"
+    }
+  ],
+  "toggle-play-pause": [
+    {
+      "file": "standard/music.md",
+      "line": 188,
+      "heading": "Toggle Play/Pause"
+    }
+  ],
+  "toggle-reduce-motion": [
+    {
+      "file": "standard/a11y.md",
+      "line": 351,
+      "heading": "Toggle Reduce Motion"
+    }
+  ],
+  "toggle-reduce-transparency": [
+    {
+      "file": "standard/a11y.md",
+      "line": 359,
+      "heading": "Toggle Reduce Transparency"
+    }
+  ],
+  "toggle-smart-invert": [
+    {
+      "file": "standard/a11y.md",
+      "line": 367,
+      "heading": "Toggle Smart Invert"
+    }
+  ],
+  "toggle-stage-manager": [
+    {
+      "file": "standard/settings.md",
+      "line": 17,
+      "heading": "Toggle Stage Manager"
+    }
+  ],
+  "toggle-switch-control": [
+    {
+      "file": "standard/a11y.md",
+      "line": 100,
+      "heading": "Toggle Switch Control"
+    }
+  ],
+  "toggle-true-tone": [
+    {
+      "file": "standard/settings.md",
+      "line": 89,
+      "heading": "Toggle True Tone"
+    }
+  ],
+  "toggle-voice-control": [
+    {
+      "file": "standard/a11y.md",
+      "line": 375,
+      "heading": "Toggle Voice Control"
+    }
+  ],
+  "toggle-white-point": [
+    {
+      "file": "standard/a11y.md",
+      "line": 383,
+      "heading": "Toggle White Point"
+    }
+  ],
+  "toggle-wifi": [
+    {
+      "file": "standard/settings.md",
+      "line": 246,
+      "heading": "Toggle Wifi"
+    }
+  ],
+  "toggle-zoom": [
+    {
+      "file": "standard/a11y.md",
+      "line": 391,
+      "heading": "Toggle Zoom"
+    }
+  ],
+  "transcribe-audio": [
+    {
+      "file": "standard/text.md",
+      "line": 105,
+      "heading": "Transcribe Audio"
+    }
+  ],
+  "translate": [
+    {
+      "file": "standard/translation.md",
+      "line": 45,
+      "heading": "Translate"
+    }
+  ],
+  "translation-actions": [
+    {
+      "file": "standard/translation.md",
+      "line": 1,
+      "heading": "Translation Actions"
+    }
+  ],
+  "trim-video": [
+    {
+      "file": "standard/media.md",
+      "line": 243,
+      "heading": "Trim Video"
+    }
+  ],
+  "trim-whitespace": [
+    {
+      "file": "standard/text.md",
+      "line": 281,
+      "heading": "Trim Whitespace"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "file": "package-manager.md",
+      "line": 124,
+      "heading": "Troubleshooting"
+    }
+  ],
+  "turn-off-alarm": [
+    {
+      "file": "standard/calendar.md",
+      "line": 51,
+      "heading": "Turn Off Alarm"
+    }
+  ],
+  "turn-off-do-not-disturb": [
+    {
+      "file": "standard/settings.md",
+      "line": 158,
+      "heading": "Turn Off Do Not Disturb"
+    }
+  ],
+  "turn-on-alarm": [
+    {
+      "file": "standard/calendar.md",
+      "line": 61,
+      "heading": "Turn On Alarm"
+    }
+  ],
+  "turn-on-do-not-disturb": [
+    {
+      "file": "standard/settings.md",
+      "line": 166,
+      "heading": "Turn On Do Not Disturb"
+    }
+  ],
+  "type-coercion": [
+    {
+      "file": "types.md",
+      "line": 365,
+      "heading": "Type Coercion"
+    },
+    {
+      "file": "variables-constants-globals.md",
+      "line": 35,
+      "heading": "Type Coercion"
+    }
+  ],
+  "type-declaration": [
+    {
+      "file": "types.md",
+      "line": 329,
+      "heading": "Type Declaration"
+    }
+  ],
+  "unable-to-install-stat-info-plist-no-such-file-or-directory": [
+    {
+      "file": "package-manager.md",
+      "line": 134,
+      "heading": "“unable to install: stat …/info.plist: no such file or directory”"
+    }
+  ],
+  "unable-to-install-stat-main-cherri-no-such-file-or-directory": [
+    {
+      "file": "package-manager.md",
+      "line": 130,
+      "heading": "“unable to install: stat …/main.cherri: no such file or directory”"
+    }
+  ],
+  "update-contact": [
+    {
+      "file": "standard/contacts.md",
+      "line": 138,
+      "heading": "Update Contact"
+    }
+  ],
+  "uppercase": [
+    {
+      "file": "standard/text.md",
+      "line": 291,
+      "heading": "Uppercase"
+    }
+  ],
+  "url": [
+    {
+      "file": "standard/web.md",
+      "line": 294,
+      "heading": "URL"
+    }
+  ],
+  "url-decode": [
+    {
+      "file": "standard/web.md",
+      "line": 304,
+      "heading": "URL Decode"
+    }
+  ],
+  "url-encode": [
+    {
+      "file": "standard/web.md",
+      "line": 314,
+      "heading": "URL Encode"
+    }
+  ],
+  "urls": [
+    {
+      "file": "standard/web.md",
+      "line": 223,
+      "heading": "URLs"
+    }
+  ],
+  "usage": [
+    {
+      "file": "comments.md",
+      "line": 5,
+      "heading": "Usage"
+    }
+  ],
+  "use-constants": [
+    {
+      "file": "best-practices.md",
+      "line": 39,
+      "heading": "Use constants"
+    }
+  ],
+  "use-raw-text-when-possible": [
+    {
+      "file": "best-practices.md",
+      "line": 85,
+      "heading": "Use raw text when possible"
+    }
+  ],
+  "using-references-in-actions": [
+    {
+      "file": "references.md",
+      "line": 39,
+      "heading": "Using references in actions"
+    }
+  ],
+  "value-types": [
+    {
+      "file": "types.md",
+      "line": 1,
+      "heading": "Value Types"
+    }
+  ],
+  "variable": [
+    {
+      "file": "types.md",
+      "line": 173,
+      "heading": "Variable"
+    }
+  ],
+  "variable-as-a-value": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 52,
+      "heading": "Variable as a Value"
+    }
+  ],
+  "variable-values": [
+    {
+      "file": "raw-actions.md",
+      "line": 22,
+      "heading": "Variable Values"
+    }
+  ],
+  "variables": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 3,
+      "heading": "Variables"
+    }
+  ],
+  "variables-constants-globals": [
+    {
+      "file": "variables-constants-globals.md",
+      "line": 1,
+      "heading": "Variables, Constants, & Globals"
+    }
+  ],
+  "version": [
+    {
+      "file": "definitions.md",
+      "line": 143,
+      "heading": "Version"
+    }
+  ],
+  "vibrate-device": [
+    {
+      "file": "standard/device.md",
+      "line": 98,
+      "heading": "Vibrate Device"
+    }
+  ],
+  "video-editing": [
+    {
+      "file": "standard/media.md",
+      "line": 214,
+      "heading": "Video Editing"
+    }
+  ],
+  "vision": [
+    {
+      "file": "standard/a11y.md",
+      "line": 246,
+      "heading": "Vision"
+    }
+  ],
+  "voice-memos": [
+    {
+      "file": "standard/media.md",
+      "line": 251,
+      "heading": "Voice Memos"
+    }
+  ],
+  "wait": [
+    {
+      "file": "standard/basic.md",
+      "line": 81,
+      "heading": "Wait"
+    }
+  ],
+  "wait-to-return": [
+    {
+      "file": "standard/basic.md",
+      "line": 91,
+      "heading": "Wait to Return"
+    }
+  ],
+  "wallpaper": [
+    {
+      "file": "standard/settings.md",
+      "line": 172,
+      "heading": "Wallpaper"
+    }
+  ],
+  "weather": [
+    {
+      "file": "standard/location.md",
+      "line": 110,
+      "heading": "Weather"
+    }
+  ],
+  "web-actions": [
+    {
+      "file": "standard/web.md",
+      "line": 1,
+      "heading": "Web Actions"
+    }
+  ],
+  "windows": [
+    {
+      "file": "standard/macos-only.md",
+      "line": 134,
+      "heading": "Windows"
+    }
+  ],
+  "wireless": [
+    {
+      "file": "standard/network.md",
+      "line": 74,
+      "heading": "Wireless"
+    },
+    {
+      "file": "standard/settings.md",
+      "line": 206,
+      "heading": "Wireless"
+    }
+  ],
+  "workflows": [
+    {
+      "file": "definitions.md",
+      "line": 91,
+      "heading": "Workflows"
+    }
+  ],
+  "writing-tools": [
+    {
+      "file": "standard/intelligence.md",
+      "line": 144,
+      "heading": "Writing Tools"
+    }
+  ]
+}

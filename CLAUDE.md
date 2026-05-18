@@ -4,6 +4,8 @@
 
 Local mirror of https://cherrilang.org/language/ — scraped and converted to markdown for offline LLM use. Each file corresponds to one documentation page. To re-scrape, see [Refreshing the Docs](#refreshing-the-docs) below.
 
+**Navigating sections within a file:** consult `anchors.json` (slug → `[{file, line, heading}]`) for direct section addressing, then `Read` with `offset`/`limit` to jump straight to the relevant lines instead of reading the whole file. Slugs may map to multiple `(file, line)` entries when a heading name repeats.
+
 ### Language Reference
 
 | File | Contents |
@@ -93,6 +95,24 @@ Run with `npx` — do not install globally. Defuddle v0.x is fetched automatical
 | `/language/<page>.html` | `cherri-docs/<page>.md` |
 | `/language/standard/<page>.html` | `cherri-docs/standard/<page>.md` |
 
+**4. Convert cross-reference links**
+
+Defuddle emits absolute `https://cherrilang.org/language/...` URLs for internal cross-references. After scraping, run the link converter to rewrite them to relative `.md` paths so tool-using agents resolve references locally:
+
+```bash
+python3 convert_links.py
+```
+
+Requires Python 3.10+. The script discovers slugs and heading anchors from the filesystem each run (so newly scraped pages are recognized automatically), strips dead links to plain text, drops anchors whose targets no longer exist, and verifies zero internal URLs survive outside fenced code blocks. **Always run this after a re-scrape** — a fresh scrape reintroduces the absolute URLs.
+
+**5. Regenerate the anchor index**
+
+```bash
+python3 gen_anchors.py
+```
+
+Walks H2/H3 headings across the corpus and writes `anchors.json` (slug → `[{file, line, heading}]`). Deterministic, no API calls, no maintenance. Commit the file — `git diff anchors.json` after a re-scrape surfaces renamed sections, new content, and silent removals cheaply.
+
 ### Known Issues Encountered
 
 **defuddle does not accept stdin (`-` argument is not supported)**
@@ -163,4 +183,4 @@ for page in /standard/a11y.html /standard/intelligence.html /standard/basic.html
 done
 ```
 
-Run from the `apple-shortcuts/` directory. Requires Node.js. Takes ~2-3 minutes for all 45 pages.
+Run from the `apple-shortcuts/` directory. Requires Node.js. Takes ~2-3 minutes for all 45 pages. After it finishes, run `python3 convert_links.py && python3 gen_anchors.py` to restore relative cross-reference paths and regenerate the anchor index.

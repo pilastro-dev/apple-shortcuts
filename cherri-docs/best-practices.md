@@ -84,4 +84,4 @@ Whenever possible when declaring variables with empty values, rather than settin
 
 ### Use raw text when possible
 
-[Raw text](https://cherrilang.org/language/types#raw-text) literals compile faster than standard text literals because they skip string interpolation other than escaped single quotes. They can be used as a substitute anywhere text can be used, and other than those limitations on contents should behave identically.
+[Raw text](./types.md#raw-text) literals compile faster than standard text literals because they skip string interpolation other than escaped single quotes. They can be used as a substitute anywhere text can be used, and other than those limitations on contents should behave identically.

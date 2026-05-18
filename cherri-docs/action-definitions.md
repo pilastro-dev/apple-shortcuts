@@ -1,6 +1,6 @@
 ## Definition
 
-To define a Shortcut action raw, in the same reusable way as the [standard Shortcut actions](https://cherrilang.org/language/actions) in the compiler, use the following syntax:
+To define a Shortcut action raw, in the same reusable way as the [standard Shortcut actions](./actions.md) in the compiler, use the following syntax:
 
 ```
 action 'com.example.app.action' myCustomAction()
@@ -28,7 +28,7 @@ Attributes may be added in the following order after `action`:
 
 ## Arguments
 
-The syntax for the action arguments is the same as [functions](https://cherrilang.org/language/functions#defining-arguments), and you can also set an [output type](https://cherrilang.org/language/custom-actions#output-type).
+The syntax for the action arguments is the same as [functions](./functions.md#defining-arguments), and you can also set an output type.
 
 One exception is that it requires the key for the parameter that the argument will be used to create. Add a `:` after the argument name, then a raw string with the parameter key:
 
@@ -41,7 +41,7 @@ myCustomAction(@file)
 
 ## Add Parameters
 
-To add extra parameters in the same way as a [raw action](https://cherrilang.org/language/raw-actions), add a dictionary after the definition and an optional output type.
+To add extra parameters in the same way as a [raw action](./raw-actions.md), add a dictionary after the definition and an optional output type.
 
 ```
 action 'com.example.app.action' myCustomAction(variable file: 'WFInput'): bool {

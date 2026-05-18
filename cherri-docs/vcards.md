@@ -39,7 +39,7 @@ alert(@chosenItem, "You chose:")
 
 This accepts base64 encoded image data.
 
-To use a local image file, use the output of the built-in [embedFile()](https://cherrilang.org/language/standard/builtin#base64-encode-file) action to encode that file, then use it in a VCard using a variable reference.
+To use a local image file, use the output of the built-in [embedFile()](./standard/builtin.md#base64-encode-file) action to encode that file, then use it in a VCard using a variable reference.
 
 ```ruby
 #include 'actions/device'
@@ -61,6 +61,6 @@ const batteryLevel = getBatteryLevel()
 
 ## Standard Library Action
 
-You can also use the standard library action [`chooseFromVCard()`](https://cherrilang.org/language/standard/stdlib#choose-from-vcard).
+You can also use the standard library action [`chooseFromVCard()`](./standard/stdlib.md#choose-from-vcard).
 
 You can use this action in the same way you’d use the `chooseFromList()` action. You just provide it an array of VCards and a prompt.
