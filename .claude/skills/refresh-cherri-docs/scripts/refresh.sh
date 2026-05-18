@@ -9,8 +9,9 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "${SCRIPT_DIR}/../../../.." && pwd)"
 BASE="https://cherrilang.org/language"
-OUT="${SCRIPT_DIR}/cherri-docs"
+OUT="${REPO_ROOT}/cherri-docs"
 
 mkdir -p "$OUT/standard"
 
@@ -54,12 +55,11 @@ done
 
 echo ""
 echo "Normalizing cross-reference links ..."
-cd "$SCRIPT_DIR"
-python3 convert_links.py
+python3 "${SCRIPT_DIR}/convert_links.py"
 
 echo ""
 echo "Regenerating anchor index ..."
-python3 gen_anchors.py
+python3 "${SCRIPT_DIR}/gen_anchors.py"
 
 echo ""
 echo "Refresh complete."

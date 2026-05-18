@@ -3,9 +3,9 @@
 Convert cherrilang.org/language/ cross-reference URLs in cherri-docs/ to
 relative markdown paths so a tool-using LLM can resolve references locally.
 
-Run from the apple-shortcuts/ directory:
+Invoke from anywhere; the script resolves paths from its own location:
 
-    python3 convert-links.py
+    python3 .claude/skills/refresh-cherri-docs/scripts/convert_links.py
 
 Requires Python 3.10+.
 """
@@ -14,7 +14,8 @@ import re
 import sys
 from pathlib import Path
 
-DOCS_ROOT = Path("cherri-docs")
+REPO_ROOT = Path(__file__).resolve().parents[4]
+DOCS_ROOT = REPO_ROOT / "cherri-docs"
 INTERNAL_BASE = "https://cherrilang.org/language/"
 
 LINK_RE = re.compile(r'\[([^\]]*)\]\((https://cherrilang\.org/language/[^)]*)\)')

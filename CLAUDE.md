@@ -4,7 +4,7 @@
 
 Local mirror of https://cherrilang.org/language/ — scraped and converted to markdown for offline LLM use. Each file corresponds to one documentation page. To re-scrape, see [Refreshing the Docs](#refreshing-the-docs) below.
 
-**Navigating sections within a file:** consult `anchors.json` (slug → `[{file, line, heading}]`) for direct section addressing, then `Read` with `offset`/`limit` to jump straight to the relevant lines instead of reading the whole file. Slugs may map to multiple `(file, line)` entries when a heading name repeats.
+**Navigating sections within a file:** consult `cherri-docs/anchors.json` (slug → `[{file, line, heading}]`) for direct section addressing, then `Read` with `offset`/`limit` to jump straight to the relevant lines instead of reading the whole file. Slugs may map to multiple `(file, line)` entries when a heading name repeats.
 
 ### Language Reference
 
@@ -67,4 +67,4 @@ Actions in `standard/` require `#include 'actions/<category>'` unless noted.
 
 ## Refreshing the Docs
 
-Run `./refresh.sh` from the project root, or invoke the `refresh-cherri-docs` skill. The skill captures the full workflow, known defuddle gotchas, partial-refresh paths (anchor-only, link-normalize-only), and post-run verification — load it on demand instead of keeping the prose always in context.
+Invoke the `refresh-cherri-docs` skill, or run directly: `bash .claude/skills/refresh-cherri-docs/scripts/refresh.sh`. The skill captures the full workflow, known defuddle gotchas, partial-refresh paths (anchor-only, link-normalize-only), and post-run verification — load it on demand instead of keeping the prose always in context. Scripts compute their own paths from script location, so they run correctly from any cwd.

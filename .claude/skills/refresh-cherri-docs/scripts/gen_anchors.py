@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Generate anchors.json: an index of H2/H3 headings across cherri-docs/.
+Generate cherri-docs/anchors.json: an index of H2/H3 headings across the mirror.
 
-Run from the apple-shortcuts/ directory:
+Invoke from anywhere; the script resolves paths from its own location:
 
-    python3 gen_anchors.py
+    python3 .claude/skills/refresh-cherri-docs/scripts/gen_anchors.py
 
-Output: anchors.json mapping slug -> [{file, line, heading}, ...]. Slugs can
-collide across files (e.g. 'list' appears in multiple), hence the list.
+Output: cherri-docs/anchors.json mapping slug -> [{file, line, heading}, ...].
+Slugs can collide across files (e.g. 'list' appears in multiple), hence the list.
 
 Reuses convert_links.slugify_heading so this index and the validator in
 convert_links.py stay in lockstep.
@@ -20,8 +20,9 @@ from pathlib import Path
 
 from convert_links import slugify_heading  # type: ignore[import-not-found]
 
-DOCS_ROOT = Path("cherri-docs")
-OUTPUT = Path("anchors.json")
+REPO_ROOT = Path(__file__).resolve().parents[4]
+DOCS_ROOT = REPO_ROOT / "cherri-docs"
+OUTPUT = DOCS_ROOT / "anchors.json"
 
 HEADING_RE = re.compile(r'^(#{2,3})\s+(.+?)\s*$')
 FENCE_RE = re.compile(r'^\s*```')
@@ -55,7 +56,7 @@ def collect_anchors(root: Path) -> dict[str, list[dict]]:
 
 def main() -> int:
     if not DOCS_ROOT.is_dir():
-        print(f"error: {DOCS_ROOT} not found (run from apple-shortcuts/)", file=sys.stderr)
+        print(f"error: {DOCS_ROOT} not found", file=sys.stderr)
         return 1
 
     anchors = collect_anchors(DOCS_ROOT)
