@@ -68,3 +68,7 @@ Actions in `standard/` require `#include 'actions/<category>'` unless noted.
 ## Refreshing the Docs
 
 Invoke the `refresh-cherri-docs` skill, or run directly: `bash .claude/skills/refresh-cherri-docs/scripts/refresh.sh`. The skill captures the full workflow, known defuddle gotchas, partial-refresh paths (anchor-only, link-normalize-only), and post-run verification — load it on demand instead of keeping the prose always in context. Scripts compute their own paths from script location, so they run correctly from any cwd.
+
+## Tracking
+
+GitHub Issues (https://github.com/pilastro-dev/apple-shortcuts/issues) are the canonical layer for features, bugs, deferred improvements, and architectural questions in this project. Anything that isn't yet code — design discussions, blocked work, ideas pending evidence — lands there rather than in scratch markdown files, so it's reference-able from commits, PRs, and skill docs without scattering planning artifacts across the repo.
